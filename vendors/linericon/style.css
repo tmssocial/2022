@@ -108,7 +108,7 @@ td {
 		color: #880000;
 	}
 
-/* 背景圖格式 */
+/* 背景圖格式(zh-TW) */
 #bannerimage-index {
   width: 100%;
   background-image: url("../../img/index/banner-1.png");
@@ -273,6 +273,173 @@ td {
   background-color: black;
   background-position: center;
 }
+
+/* 背景圖格式(en-US)) */
+#bannerimage-index-en {
+  width: 100%;
+  background-image: url("../../en-US/img/banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 405px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-narrtive-en {
+  width: 100%;
+  background-image: url("../../en-US/img/narrtive-zh/banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 200px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-narrtive01-en {
+  width: 100%;
+  background-image: url("../../en-US/img/index/narr01-banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 400px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-narrtive02-en {
+  width: 100%;
+  background-image: url("../../en-US/img/index/narr02-banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 400px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-narrtive03-en {
+  width: 100%;
+  background-image: url("../../en-US/img/index/narr03-banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 400px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-person-en {
+  width: 100%;
+  background-image: url("../../en-US/img/narrtive-zh/banner-2.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 200px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-future01-en {
+  width: 100%;
+  background-image: url("../../en-US/img/index/future01-banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 200px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-history_1-en {
+  width: 100%;
+  background-image: url("../../en-US/img/history/banner-1.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 405px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-history_2-en {
+  width: 100%;
+  background-image: url("../../en-US/img/history/banner-2.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 405px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-history_3-en {
+  width: 100%;
+  background-image: url("../../en-US/img/history/banner-3.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 405px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-maps-en {
+  width: 100%;
+  background-image: url("../../en-US/img/index/maps-banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 405px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-aboutus-en {
+  width: 100%;
+  background-image: url("../../en-US/img/index/aboutus-banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 405px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-introdution-en {
+  width: 100%;
+  background-image: url("../../en-US/img/index/introduct-banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 405px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-talk-en {
+  width: 100%;
+  background-image: url("../../en-US/img/index/talk-banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 405px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-profiles-en {
+  width: 100%;
+  background-image: url("../../en-US/img/index/profiles-banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 405px;
+  background-color: black;
+  background-position: center;
+}
+
 
 .img-responsive { display: block; height: auto; max-width: 100%; }
 .lnr {
