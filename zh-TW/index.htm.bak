@@ -15,7 +15,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>首頁：馬偕博士在台灣 - 2022 臺灣網界博覽會</title>
+  <title>首頁：馬偕博士在台灣 - 2022 國際網界博覽會</title>
   <link rel="icon" href="../img/Fevicon.png" type="image/png">
   <link rel="stylesheet" href="../vendors/bootstrap/bootstrap.min.css">
   <link rel="stylesheet" href="../vendors/fontawesome/css/all.min.css">
@@ -23,7 +23,19 @@
   <link rel="stylesheet" href="../vendors/linericon/style.css">
   <link rel="stylesheet" href="../vendors/owl-carousel/owl.theme.default.min.css">
   <link rel="stylesheet" href="../vendors/owl-carousel/owl.carousel.min.css">
-  
+	  
+    <!--網站SEO優化-->
+    <meta property="og:url" content="https://tmssocial.github.io/2022/"/>
+    <meta property="og:locale" content="zh_TW" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="首頁：馬偕博士在台灣 - 2022 國際網界博覽會" />
+    <meta property="og:description" content="馬偕當初來到台灣，為了融入台灣人的生活，藉由和農民、牧童交談，學習完全陌生的閩南語，一次又一次的嘗試，終於和大家變成好朋友。"/>
+    <meta property="og:image" content="../img/banner/hero-banner.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1920" />
+    <meta property="og:image:height" content="1080" />
+	  <!-- MDB -->
+   <link rel="stylesheet" href="../css/mdb.min.css" />
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body class="bg-light">
@@ -84,9 +96,8 @@
 			  <li class="nav-item submenu dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color:orange; hover:red;">Language</a>
                 <ul class="dropdown-menu">
-					<li class="nav-item"><a class="nav-link" href="../en-US/index.htm">English</a></li>
-                    <li class="nav-item"><a class="nav-link" href="index.htm">
-						<img width="20%" src="../zh-TW-icon.png"></img>中文(繁體)</a></li>
+					<li class="nav-item"><a class="nav-link" href="../en-US/index.htm"><img width="20%" src="../img/en-US-icon.png"></img>  English</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.htm"><img width="20%" src="../img/zh-TW-icon.png"></img>  中文(繁體)</a></li>
                 </ul>
               </li>
             </ul>
@@ -104,10 +115,219 @@
         <div class="col-lg-8">
             <div class="main_blog_details">
 				<a href="#"><h4>歡迎，這裡是首頁！</h4></a>
-				<img src="../img/index/index-ad.png" alt="" width="100%">
+				<img src="../img/index/ad.png" alt="" width="100%">
 				<br><br>
 				<input2big>當初來到台灣，為了融入台灣人的生活，藉由和農民、牧童交談，學習完全陌生的閩南語，過程中大家因為他是外國人，看到他就喊「鬍鬚番」來了，然後眾人就飛也似的跑走了，一次又一次的嘗試，終於和大家變成好朋友。學習語言原本就是件不容易的事情，馬偕為了理想和愛台灣的心，用許多的時間和努力把閩南語講得流利，和當時的台灣人溝通完全無障礙。</input2big>
 				<br><br>
+				
+				<!-- CARD CONTENT -->
+<div
+  id="carouselMultiItemExample"
+  class="carousel slide carousel-dark text-center"
+  data-mdb-ride="carousel"
+>
+
+  <!-- Inner -->
+  <div class="carousel-inner py-4">
+    <!-- 第一頁大頁(有三個) -->
+    <div class="carousel-item active">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="card">
+              <img
+                src="../img/index-menu/1.png"
+                class="card-img-top"
+                alt="Waterfall"
+              />
+              <div class="card-body">
+                <h5 class="card-title">關於馬偕博士</h5>
+                <p class="card-text">
+                  輸入點文字吧
+                </p>
+                <a href="#!" class="btn btn-primary">Button</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 d-none d-lg-block">
+            <div class="card">
+              <img
+                src="../img/index-menu/1.png"
+                class="card-img-top"
+                alt="Sunset Over the Sea"
+              />
+              <div class="card-body">
+                <h5 class="card-title">馬偕的後代</h5>
+                <p class="card-text">
+                  輸入點文字吧
+                </p>
+                <a href="#!" class="btn btn-primary">Button</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 d-none d-lg-block">
+            <div class="card">
+              <img
+                src="../img/index-menu/1.png"
+                class="card-img-top"
+                alt="Sunset over the Sea"
+              />
+              <div class="card-body">
+                <h5 class="card-title">馬偕建立的教會</h5>
+                <p class="card-text">
+                  輸入點文字吧
+                </p>
+                <a href="#!" class="btn btn-primary">Button</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 第二頁大頁(有三個) -->
+    <div class="carousel-item">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-md-12">
+            <div class="card">
+              <img
+                src="../img/index-menu/1.png"
+                class="card-img-top"
+                alt="Fissure in Sandstone"
+              />
+              <div class="card-body">
+                <h5 class="card-title">淡江中學的創立</h5>
+                <p class="card-text">
+                  輸入點文字吧
+                </p>
+                <a href="#!" class="btn btn-primary">Button</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 d-none d-lg-block">
+            <div class="card">
+              <img
+                src="../img/index-menu/1.png"
+                class="card-img-top"
+                alt="Storm Clouds"
+              />
+              <div class="card-body">
+                <h5 class="card-title">訪問日記</h5>
+                <p class="card-text">
+                  輸入點文字吧
+                </p>
+                <a href="#!" class="btn btn-primary">Button</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 d-none d-lg-block">
+            <div class="card">
+              <img
+                src="../img/index-menu/1.png"
+                class="card-img-top"
+                alt="Hot Air Balloons"
+              />
+              <div class="card-body">
+                <h5 class="card-title">我是標題</h5>
+                <p class="card-text">
+                  輸入點文字吧
+                </p>
+                <a href="#!" class="btn btn-primary">Button</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 第三頁大頁(有三個) -->
+    <div class="carousel-item">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+            <div class="card">
+              <img
+                src="../img/index-menu/1.png"
+                class="card-img-top"
+                alt="Peaks Against the Starry Sky"
+              />
+              <div class="card-body">
+                <h5 class="card-title">我是標題</h5>
+                <p class="card-text">
+                  輸入點文字吧
+                </p>
+                <a href="#!" class="btn btn-primary">Button</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
+            <div class="card">
+              <img
+                src="../img/index-menu/1.png"
+                class="card-img-top"
+                alt="Bridge Over Water"
+              />
+              <div class="card-body">
+                <h5 class="card-title">我是標題</h5>
+                <p class="card-text">
+                  輸入點文字吧
+                </p>
+                <a href="#!" class="btn btn-primary">Button</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 mb-4 mb-lg-0 d-none d-lg-block">
+            <div class="card">
+              <img
+                src="../img/index-menu/1.png"
+                class="card-img-top"
+                alt="Purbeck Heritage Coast"
+              />
+              <div class="card-body">
+                <h5 class="card-title">我是標題</h5>
+                <p class="card-text">
+                  輸入點文字吧
+                </p>
+                <a href="#!" class="btn btn-primary">Button</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Inner -->
+	  <!-- 控制按鈕 -->
+  <div class="d-flex justify-content-center mb-4">
+    <button
+      class="carousel-control-prev position-relative"
+      type="button"
+      data-mdb-target="#carouselMultiItemExample"
+      data-mdb-slide="prev"
+    >
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button
+      class="carousel-control-next position-relative"
+      type="button"
+      data-mdb-target="#carouselMultiItemExample"
+      data-mdb-slide="next"
+    >
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+</div>
+<!-- CARD CONTENT -->
+
 				<hr size="8px" align="center" width="100%">
 				<br><br>
 				<div id="button_zoomout"><a href="../zh-TW/narrative.htm"><img src="../img/index/index-1-button.png" alt="" width="100%"></a></div>
@@ -169,6 +389,8 @@
   </footer>
 
 <!-- 其他控制項 (┛`д´)┛-->
+<!-- MDB -->
+    <script type="text/javascript" src="../js/mdb.min.js"></script>
 	<script src="../vendors/jquery/jquery-3.2.1.min.js"></script>
 	<script src="../vendors/bootstrap/bootstrap.bundle.min.js"></script>
 	<script src="../vendors/owl-carousel/owl.carousel.min.js"></script>

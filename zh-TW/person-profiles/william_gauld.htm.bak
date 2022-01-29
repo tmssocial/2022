@@ -86,8 +86,8 @@
 			  <li class="nav-item submenu dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color:orange; hover:red;">Language</a>
                 <ul class="dropdown-menu">
-					<li class="nav-item"><a class="nav-link" href="../../en-US/index.htm">English</a></li>
-                    <li class="nav-item"><a class="nav-link" href="../index.htm">中文(繁體)</a></li>
+					<li class="nav-item"><a class="nav-link" href="../../en-US/index.htm"><img width="20%" src="../../img/en-US-icon.png">  English</a></li>
+                    <li class="nav-item"><a class="nav-link" href="../index.htm"><img width="20%" src="../../img/en-US-icon.png">  中文(繁體)</a></li>
                 </ul>
               </li>
             </ul>
@@ -125,6 +125,38 @@
                 <input2big>　　吳威廉年輕時馬偕正好回到加拿大做宣教報告，吳威廉便受到其鼓舞決定成為一名宣教士。就求學畢業後與馬偕一樣被加拿大長老教會至派遣海外宣教。1892年10月23日吳威廉夫婦搭船正式到達淡水港，馬偕也帶了家人到碼頭迎接他和他的妻子。 <br>
   　　吳威廉無疑是個出色的人才，將北台宣教整頓得相當好，使馬偕回國時也可以將宣教工作交給他，甚至是在馬偕逝世時也一樣。 <br>
   　　吳威廉有專業的建築知識，在台設計了不少建築，其中最有名的為今日的台北馬偕紀念醫院。另外吳威廉也曾替馬偕的兩位千金證婚，綜合上述可知他雖不是馬偕的骨肉卻在馬偕生命中扮演重要的角色，因此即便他不是馬偕的親戚，現在也被葬在馬偕墓園之中長眠。 <br></input2big>
+				
+			  <p></p>
+				<hr size="8px" align="center" width="100%">
+              <p>
+                <inputtitle>大事記</inputtitle>
+              </p>
+              <table>
+				  	  <tr>
+                  		<th width="20%">年分</th>
+                  		<th width="80%">簡介</th>
+                      </tr>
+					  <tr>
+						<td>1861 </td>
+						<td>出生 </td>
+					  </tr>
+					  <tr>
+						<td>1880</td>
+						<td>立志與馬偕一樣成為宣教士 </td>
+					  </tr>
+					  <tr>
+						<td>1892</td>
+						<td>與吳瑪利女士結婚／抵達淡水港 </td>
+					  </tr>
+					  <tr>
+						<td>1912</td>
+						<td>設計的台北馬偕紀念醫院落成 </td>
+					  </tr>
+					  <tr>
+						<td>1923</td>
+						<td>離世 </td>
+					  </tr>
+              </table>
         </div>
 </div>
 		  
@@ -135,22 +167,22 @@
                 <h4 class="single-sidebar-widget__title">快速導航</h4>
                 <ul class="cat-list mt-20">
                   <li>
-                    <a href="../../narrative.htm" class="d-flex justify-content-between">
+                    <a href="../narrative.htm" class="d-flex justify-content-between">
                     <p>專案介紹</p>
                     </a>
                   </li>
                   <li>
-                    <a href="../../maps.htm" class="d-flex justify-content-between">
+                    <a href="../maps.htm" class="d-flex justify-content-between">
                       <p>網站地圖</p>
                     </a>
                   </li>
                   <li>
-                    <a href="../../about-us.htm" class="d-flex justify-content-between">
+                    <a href="../about-us.htm" class="d-flex justify-content-between">
 					  <p>關於我們</p>
                     </a>
                   </li>
 				  <li>
-                    <a href="../../talk-details.htm" class="d-flex justify-content-between">
+                    <a href="../talk-details.htm" class="d-flex justify-content-between">
 					  <p>訪談紀錄</p>
                     </a>
                   </li>
@@ -172,7 +204,7 @@
 		  <p>作業系統 Win 7 以上、MAC OS X。</p>
 		  <p>瀏覽器：Edge、Chrome 55以上、Firefox 50.0以上、Safari 9.0以上。</p>
 		</center>
-        <center><img src="../../zh-TW/img/index/social_media.png" alt="" width="20%"><p class="footer-text m-0">
+        <center><img src="../../img/index/social_media.png" alt="" width="20%"><p class="footer-text m-0">
 		Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved | 淡江高中人文社會班</p></center>
 		</div>
   </footer>

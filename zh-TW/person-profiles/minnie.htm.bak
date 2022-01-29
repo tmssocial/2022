@@ -86,8 +86,8 @@
 			  <li class="nav-item submenu dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color:orange; hover:red;">Language</a>
                 <ul class="dropdown-menu">
-					<li class="nav-item"><a class="nav-link" href="../../en-US/index.htm">English</a></li>
-                    <li class="nav-item"><a class="nav-link" href="../index.htm">中文(繁體)</a></li>
+					<li class="nav-item"><a class="nav-link" href="../../en-US/index.htm"><img width="20%" src="../../img/en-US-icon.png">  English</a></li>
+                    <li class="nav-item"><a class="nav-link" href="../index.htm"><img width="20%" src="../../img/en-US-icon.png">  中文(繁體)</a></li>
                 </ul>
               </li>
             </ul>
@@ -128,6 +128,50 @@
            	      　　張聰明在當時是相當「現代化」的女性，也許係丈夫是外國人的緣故，亦或是個人天資聰穎，她的思想與學問相較同一時代的女性相當進步。不僅如此，她也協助馬偕的婦女宣教工作或是在馬偕創辦的學校教書，是馬偕在台宣教最大的助力之一。 </input2big>
 <input2big>陳塔嫂是北部首位女性信徒。陳塔嫂也協助馬偕在五股建當地首間禮拜堂，另外也教當地孩童識字，而張聰明便是當中的一人。馬偕發現台灣女性在地位上的不平等，也導致女性無法領受福音，因此馬偕由張聰明的養祖母陳塔嫂作媒，於1878年2月替張聰明受洗後，同年5月27日兩人正式結婚。 <br>
        	      張聰明在當時是相當「現代化」的女性，也許係丈夫是外國人的緣故，亦或是個人天資聰穎，她的思想與學問相較同一時代的女性相當進步。不僅如此，她也協助馬偕的婦女宣教工作或是在馬偕創辦的學校教書，是馬偕在台宣教最大的助力之一。 </input2big>
+				
+			  <p></p>
+				<hr size="8px" align="center" width="100%">
+              <p>
+                <inputtitle>大事記</inputtitle>
+              </p>
+              <table>
+				  	  <tr>
+                  		<th width="20%">年分</th>
+                  		<th width="80%">簡介</th>
+                      </tr>
+					  <tr>
+						<td>1860 </td>
+						<td>出生 </td>
+					  </tr>
+					  <tr>
+						<td>1873</td>
+						<td>到馬偕創立的五股禮拜堂學習羅馬字 </td>
+					  </tr>
+					  <tr>
+						<td>1878</td>
+						<td>受洗／與馬偕結婚 </td>
+					  </tr>
+					  <tr>
+						<td>1879</td>
+						<td>生長女偕瑪連 </td>
+					  </tr>
+					  <tr>
+						<td>1880</td>
+						<td>生次女偕以利／隨馬偕離開台灣前往加拿大 </td>
+					  </tr>
+					  <tr>
+						<td>1881</td>
+						<td>返台 </td>
+					  </tr>
+					  <tr>
+						<td>1882</td>
+						<td>生長男偕叡廉 </td>
+					  </tr>
+					  <tr>
+						<td>1925</td>
+						<td>離世 </td>
+					  </tr>
+              </table>
             </div>
         </div>
 
@@ -138,22 +182,22 @@
                 <h4 class="single-sidebar-widget__title">快速導航</h4>
                 <ul class="cat-list mt-20">
                   <li>
-                    <a href="../../narrative.htm" class="d-flex justify-content-between">
+                    <a href="../narrative.htm" class="d-flex justify-content-between">
                     <p>專案介紹</p>
                     </a>
                   </li>
                   <li>
-                    <a href="../../maps.htm" class="d-flex justify-content-between">
+                    <a href="../maps.htm" class="d-flex justify-content-between">
                       <p>網站地圖</p>
                     </a>
                   </li>
                   <li>
-                    <a href="../../about-us.htm" class="d-flex justify-content-between">
+                    <a href="../about-us.htm" class="d-flex justify-content-between">
 					  <p>關於我們</p>
                     </a>
                   </li>
 				  <li>
-                    <a href="../../talk-details.htm" class="d-flex justify-content-between">
+                    <a href="../talk-details.htm" class="d-flex justify-content-between">
 					  <p>訪談紀錄</p>
                     </a>
                   </li>
@@ -175,7 +219,7 @@
 		  <p>作業系統 Win 7 以上、MAC OS X。</p>
 		  <p>瀏覽器：Edge、Chrome 55以上、Firefox 50.0以上、Safari 9.0以上。</p>
 		</center>
-        <center><img src="../../zh-TW/img/index/social_media.png" alt="" width="20%"><p class="footer-text m-0">
+        <center><img src="../../img/index/social_media.png" alt="" width="20%"><p class="footer-text m-0">
 		Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved | 淡江高中人文社會班</p></center>
 		</div>
   </footer>

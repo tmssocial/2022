@@ -71,7 +71,7 @@
                 <ul class="dropdown-menu">
 					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_1.htm">漂洋過海來臺灣</a></li>
 					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_2.htm">一生奉獻給臺灣</a></li>
-					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_3.htm">深根在地住拔牙</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_3.htm">深根在地助拔牙</a></li>
                 </ul>
               </li>
               <li class="nav-item submenu dropdown">
@@ -84,8 +84,8 @@
 			  <li class="nav-item submenu dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color:orange; hover:red;">Language</a>
                 <ul class="dropdown-menu">
-					<li class="nav-item"><a class="nav-link" href="../en-US/index.htm">English</a></li>
-                    <li class="nav-item"><a class="nav-link" href="index.htm">中文(繁體)</a></li>
+					<li class="nav-item"><a class="nav-link" href="../en-US/index.htm"><img width="20%" src="../img/en-US-icon.png"></img>  English</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.htm"><img width="20%" src="../img/zh-TW-icon.png"></img>  中文(繁體)</a></li>
                 </ul>
               </li>
             </ul>
@@ -104,32 +104,34 @@
         <div class="col-lg-8">
             <div class="main_blog_details">
                 <br>
+				<div id="button_zoomout"><a href="copyright.htm"><img src="../img/about-us/datasource_button/cr.png" alt="" width="100%"></a></div>
+				<br>
 				<div id="button_zoomout"><a href="index.htm"><img src="../img/about-us/datasource_button/index.png" alt="" width="100%"></a></div>
 				<input2big>　01 馬偕頭像取自：<a href="https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%81%95">Wikipedia - George Mackay<a/></input2big>
 				
 				<div id="button_zoomout"><a href="person-profiles/bella_mackay.htm"><img src="../img/about-us/datasource_button/bella_mackay.png" alt="" width="100%"></a></div>
-				<input2big>　01 測試文字：<a href="#">連結放這邊<a/></input2big>
+				<input2big>　01 測試文字：<a href="#">連結放這邊</a></input2big>
 				
 				<div id="button_zoomout"><a href="person-profiles/chenqingyi.htm"><img src="../img/about-us/datasource_button/chenqingyi.png" alt="" width="100%"></a></div>
-				<input2big>　01 測試文字：<a href="#">連結放這邊<a/></input2big>
+				<input2big>　01 測試文字：<a href="#">連結放這邊</a></input2big>
 				
 				<div id="button_zoomout"><a href="person-profiles/george_mackay.htm"><img src="../img/about-us/datasource_button/george_mackay.png" alt="" width="100%"></a></div>
-				<input2big>　01 測試文字：<a href="#">連結放這邊<a/></input2big>
+				<input2big>　01 測試文字：<a href="#">連結放這邊</a></input2big>
 				
 				<div id="button_zoomout"><a href="person-profiles/george_william.htm"><img src="../img/about-us/datasource_button/george_william.png" alt="" width="100%"></a></div>
-				<input2big>　01 測試文字：<a href="#">連結放這邊<a/></input2big>
+				<input2big>　01 測試文字：<a href="#">連結放這邊</a></input2big>
 				
 				<div id="button_zoomout"><a href="person-profiles/mary_mackay.htm"><img src="../img/about-us/datasource_button/mary_mackay.png" alt="" width="100%"></a></div>
-				<input2big>　01 測試文字：<a href="#">連結放這邊<a/></input2big>
+				<input2big>　01 測試文字：<a href="#">連結放這邊</a></input2big>
 				
 				<div id="button_zoomout"><a href="person-profiles/minnie.htm"><img src="../img/about-us/datasource_button/minnie.png" alt="" width="100%"></a></div>
-				<input2big>　01 測試文字：<a href="#">連結放這邊<a/></input2big>
+				<input2big>　01 測試文字：<a href="#">連結放這邊</a></input2big>
 				
 				<div id="button_zoomout"><a href="person-profiles/william_gauld.htm"><img src="../img/about-us/datasource_button/william_gauld.png" alt="" width="100%"></a></div>
-				<input2big>　01 測試文字：<a href="#">連結放這邊<a/></input2big>
+				<input2big>　01 測試文字：<a href="#">連結放這邊</a></input2big>
 				
 				<div id="button_zoomout"><a href="person-profiles/yanqinghua.htm"><img src="../img/about-us/datasource_button/yanqinghua.png" alt="" width="100%"></a></div>
-				<input2big>　01 測試文字：<a href="#">連結放這邊<a/></input2big>
+				<input2big>　01 測試文字：<a href="#">連結放這邊</a></input2big>
 			</div>
 		</div>
 		

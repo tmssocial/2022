@@ -86,8 +86,8 @@
 			  <li class="nav-item submenu dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color:orange; hover:red;">Language</a>
                 <ul class="dropdown-menu">
-					<li class="nav-item"><a class="nav-link" href="../../en-US/index.htm">English</a></li>
-                    <li class="nav-item"><a class="nav-link" href="../index.htm">中文(繁體)</a></li>
+					<li class="nav-item"><a class="nav-link" href="../../en-US/index.htm"><img width="20%" src="../../img/en-US-icon.png">  English</a></li>
+                    <li class="nav-item"><a class="nav-link" href="../index.htm"><img width="20%" src="../../img/en-US-icon.png">  中文(繁體)</a></li>
                 </ul>
               </li>
             </ul>
@@ -123,9 +123,38 @@
 				<hr size="8px" align="center" width="100%">
 				<br><br>
                 <input2big>　　1892年，陳清義進入了馬偕創辦的淡水理學堂（牛津學堂）就讀。之後1903年在艋舺教會擔任傳道，並於1906年被馬偕封為牧師（馬偕只有封陳清義與嚴清華二人）在當時北部地區的教會有一定的影響力。</input2big>
-              <br>
-                  
-                 
+				
+              <p>&nbsp;</p>
+                <hr size="8px" align="center" width="100%">
+                <p>
+                  <inputtitle>大事記</inputtitle>
+                </p>
+                <table>
+                  <tr>
+                    <th width="20%">年分</th>
+                    <th width="80%">簡介</th>
+                  </tr>
+				  <tr>
+					<td>1877</td>
+					<td>出生／受洗為徒（馬偕施洗）</td>
+				  </tr>
+				  <tr>
+					<td>1892</td>
+					<td>進入淡水理書院（牛津學堂）就讀 </td>
+				  </tr>
+				  <tr>
+					<td>1899</td>
+					<td>與偕瑪連女士結婚 </td>
+				  </tr>
+				  <tr>
+					<td>1906</td>
+					<td>被馬偕封為牧師 </td>
+				  </tr>
+				  <tr>
+					<td>1942</td>
+					<td>離世 </td>
+				  </tr>
+                </table>
           </div>
         </div>
 
@@ -136,22 +165,22 @@
                 <h4 class="single-sidebar-widget__title">快速導航</h4>
                 <ul class="cat-list mt-20">
                   <li>
-                    <a href="../../narrative.htm" class="d-flex justify-content-between">
+                    <a href="../narrative.htm" class="d-flex justify-content-between">
                     <p>專案介紹</p>
                     </a>
                   </li>
                   <li>
-                    <a href="../../maps.htm" class="d-flex justify-content-between">
+                    <a href="../maps.htm" class="d-flex justify-content-between">
                       <p>網站地圖</p>
                     </a>
                   </li>
                   <li>
-                    <a href="../../about-us.htm" class="d-flex justify-content-between">
+                    <a href="../about-us.htm" class="d-flex justify-content-between">
 					  <p>關於我們</p>
                     </a>
                   </li>
 				  <li>
-                    <a href="../../talk-details.htm" class="d-flex justify-content-between">
+                    <a href="../talk-details.htm" class="d-flex justify-content-between">
 					  <p>訪談紀錄</p>
                     </a>
                   </li>
@@ -173,7 +202,7 @@
 		  <p>作業系統 Win 7 以上、MAC OS X。</p>
 		  <p>瀏覽器：Edge、Chrome 55以上、Firefox 50.0以上、Safari 9.0以上。</p>
 		</center>
-        <center><img src="../../zh-TW/img/index/social_media.png" alt="" width="20%"><p class="footer-text m-0">
+        <center><img src="../../img/index/social_media.png" alt="" width="20%"><p class="footer-text m-0">
 		Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved | 淡江高中人文社會班</p></center>
 		</div>
   </footer>
