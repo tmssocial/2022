@@ -131,9 +131,53 @@ td {
   background-position: center;
 }
 
+#bannerimage-narrtive01 {
+  width: 100%;
+  background-image: url("../../img/index/narr01-banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 400px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-narrtive02 {
+  width: 100%;
+  background-image: url("../../img/index/narr02-banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 400px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-narrtive03 {
+  width: 100%;
+  background-image: url("../../img/index/narr03-banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 400px;
+  background-color: black;
+  background-position: center;
+}
+
 #bannerimage-person {
   width: 100%;
   background-image: url("../../img/narrtive-zh/banner-2.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 200px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-future01 {
+  width: 100%;
+  background-image: url("../../img/index/future01-banner.png");
   background-repeat:no-repeat;
   background-position: center center;
   background-size: cover;

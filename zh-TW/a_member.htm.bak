@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+
+<!-- 網站修改：淡江高中人文社會班 / 2022 臺灣網界博覽會使用 -->
+<!-- 
+
+      ∩  ∩
+ 　　（´･ω･）      我們是淡江高中人文社會班，
+ 　 ＿|　⊃／(＿＿ 希望網頁不要有 BUG，順利參賽！
+    / └-(＿＿＿／
+	
+ -->
+  <!-- 網站初始化 (┛`д´)┛-->
+  <html lang="zh-TW">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>成員介紹：馬偕博士在台灣 - 2022 臺灣網界博覽會</title>
+  <link rel="icon" href="../img/Fevicon.png" type="image/png">
+  <link rel="stylesheet" href="../vendors/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="../vendors/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="../vendors/themify-icons/themify-icons.css">
+  <link rel="stylesheet" href="../vendors/linericon/style.css">
+  <link rel="stylesheet" href="../vendors/owl-carousel/owl.theme.default.min.css">
+  <link rel="stylesheet" href="../vendors/owl-carousel/owl.carousel.min.css">
+	  
+    <!--網站SEO優化-->
+    <meta property="og:url" content="https://tmssocial.github.io/2022/"/>
+    <meta property="og:locale" content="zh_TW" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="成員介紹：馬偕博士在台灣 - 2022 國際網界博覽會" />
+    <meta property="og:description" content="人文社會班先鋒團隊，成員介紹。"/>
+    <meta property="og:image" content="../img/banner/hero-banner.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1920" />
+    <meta property="og:image:height" content="1080" />
+	  
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body class="bg-light">
+
+<!-- 程式碼開始 (┛`д´)┛-->
+  <header class="header_area">
+    <div class="main_menu">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container box_1620">
+			
+          <!-- LOGO 放置處 (┛`д´)┛-->
+          <a class="navbar-brand logo_h" href="index.htm"><img src="../img/logo.png" width="180" alt=""></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+			
+          <!-- 選單列 (┛`д´)┛-->
+          <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+            <ul class="nav navbar-nav menu_nav justify-content-center">
+              <li class="nav-item submenu dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">參賽隊伍</a>
+                <ul class="dropdown-menu">
+				  <li class="nav-item"><a class="nav-link" href="../zh-TW/narrative.htm">專案介紹</a></li>
+				  <li class="nav-item"><a class="nav-link" href="../zh-TW/maps.htm">網站地圖</a></li>
+				  <li class="nav-item"><a class="nav-link" href="../zh-TW/about-us.htm">關於我們</a></li>
+				  <li class="nav-item"><a class="nav-link" href="../zh-TW/talk-details.htm">訪談紀錄</a></li>
+				  
+                </ul>
+              </li>
+              <li class="nav-item submenu dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">人物介紹</a>
+                <ul class="dropdown-menu">
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles.htm">相關人物</a></li>
+						
+							<li class="nav-item"><a class="nav-link" href="../zh-TW/person-family.htm">人物關係圖</a></li>
+							<li class="nav-item"><a class="nav-link" href="../zh-TW/person-contribution.htm">重大貢獻</a></li>
+						
+                </ul>
+              </li> 
+              <li class="nav-item submenu dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">歷史回顧</a>
+				  
+                <ul class="dropdown-menu">
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_1.htm">漂洋過海來臺灣</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_2.htm">一生奉獻給臺灣</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_3.htm">深根在地助拔牙</a></li>
+                </ul>
+              </li>
+              <li class="nav-item submenu dropdown">
+                <a href="../zh-TW/future.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">展望未來</a>
+                <ul class="dropdown-menu">
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/future-1.htm">行動方案</a></li>
+                    <li class="nav-item"><a class="nav-link" href="../zh-TW/future-2.htm">紀念行動</a></li>
+                </ul>
+              </li>
+			  <li class="nav-item submenu dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color:orange; hover:red;">Language</a>
+                <ul class="dropdown-menu">
+					<li class="nav-item"><a class="nav-link" href="../en-US/index.htm"><img width="20%" src="../img/en-US-icon.png"></img>  English</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.htm"><img width="20%" src="../img/zh-TW-icon.png"></img>  中文(繁體)</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>
+  
+    <!-- 網站大橫幅 (┛`д´)┛-->
+	<div id="bannerimage-narrtive"></div>
+    <section class="mb-30px">
+	  <div class="container">
+		<div class="row">
+		<div class="row">
+        <div class="col-lg-8">
+            <div class="main_blog_details">
+				<!--我是一個人-->
+                <br>
+				<div><img src="../img/team/1_harry.png" alt="" width="100%"></div>
+				<br>
+				<input2big>　　此次國際網界博覽會，經歷了許多波折，從一開始的不知道如何開始著手，一步步的上網學習、向前輩詢問、沒日沒夜的修改文章、網站，途中也經歷了很多挫折如資料消失、團隊吵架等等的但到最後大家還是齊心協力的將網站完成。這次的活動不僅僅是讓我學習到了寫作手法，網站架設，更多的事團隊合作，及包容還有更重要的唯有持之以恆的努力才能換來完美的結果。&nbsp;</input2big>
+				<hr size="8px" align="center" width="100%">
+				
+				<!--我是一個人-->
+				<br>
+				<div><img src="../img/team/1_joseph.png" alt="" width="100%"></div>
+				<br>
+				<input2big>　　身為淡江中學的一份子，馬偕博士對我們的校園具有重要意義與關聯，也因此我們會選擇馬偕博士之種種事蹟與相關資料作為我們的網站主題。在這次的網界博覽會中，我很榮幸能加入這個團隊並為其出一份心力，即便我僅僅負責查閱文獻與撰寫內文等，在這個企劃中的小小一分子，但若有幸得獎我肯定與有榮焉。過程中面對的難關有時真的一度讓人想放棄，不論是趕不完的進度或是突然需要參加國際版的震撼消息，似乎命運不斷嘗試將我們擊垮，但我很高興有團隊中的每位夥伴：同學、老師、學弟學長、我的母親，是他們讓我繼續拼命下去，是他們讓我執著於此，讓我覺得我有完成的必要。過程中學習到的經驗才是比得獎更寶貴的獎品。</input2big>
+				<hr size="8px" align="center" width="100%">
+				
+				<!--我是一個人-->
+				<br>
+				<div><img src="../img/team/1_dino.png" alt="" width="100%"></div>
+				<br>
+				<input2big>　　在我剛搬來淡水，有一位傳奇人物一直在我的生活中被提及，就是馬偕博士。馬偕博士的足跡踏遍整個北台灣，不讓人知曉也很難，不管是醫院或銅像都是在為他的偉大貢獻所紀念，甚至我讀的學校就跟馬偕博士息息相關，雖然我知道馬偕博士這個人，但我卻不知道人們為何而紀念他，這份疑念一直困擾著我。在這次的網界博覽會，不僅能和同伴們一起增廣見聞，看看不只馬偕博士在淡水附近的足跡以及紀念他的設施，參訪各個了解馬偕博士的學者，還能夠將我們團隊所統整關於馬偕博士的知識刊登在國際方面的競賽，也能夠讓更多人了解馬偕博士從來臺到去世所為臺灣的付出和影響。</input2big>
+				<hr size="8px" align="center" width="100%">
+				
+				<!--我是一個人-->
+				<br>
+				<div><img src="../img/team/1_andrew.png" alt="" width="100%"></div>
+				<br>
+				<input2big>　　在我還未加入這個團隊以前，就早已透過數次的階段成果發表了解這組的目標與內容。也因為我本身曾去過許多馬偕設立的教會和紀念建築，因此對於馬偕的腳蹤和歷史故事有深刻的印象。在淡江中學的學習環境，每每都聽聞到馬偕博士對於淡江中學的創設有著多麼重要影響，也使我們選擇此主題有更不一樣的意義。而由於我有過在美國留學的經驗，以至於能在此次的網界博覽會擔任翻譯的工作，將馬偕的精神與事蹟發揚至國際版面。在過程中學到的不只是知識與歷史背景故事而已，而是藉由團隊討論、文獻搜尋、古蹟參訪、質性訪談，學習到在一個專題中所需具備的技巧及學術研究的方法，並在其中深刻體會到馬偕在台灣宣教時，真心幫助台灣的那份心，以及活出耶穌愛世人的精神。</input2big>
+				<hr size="8px" align="center" width="100%">
+				
+				<!--我是一個人-->
+				<br>
+				<div><img src="../img/team/1_brian.png" alt="" width="100%"></div>
+				<br>
+				<input2big>待撰寫</input2big>
+				<hr size="8px" align="center" width="100%">
+				
+				<!--我是一個人-->
+				<br>
+				<div><img src="../img/team/1_hugo.png" alt="" width="100%"></div>
+				<br>
+				<input2big>待撰寫</input2big>
+				<hr size="8px" align="center" width="100%">
+				
+				<!--我是一個人-->
+				<br>
+				<div><img src="../img/team/1_CatTimothy.png" alt="" width="100%"></div>
+				<br>
+				<input2big>　　這次的網界博覽會，那我經歷了非常多，從最剛剛開始什麼都不知道，到現在經歷了不間斷的上網學習、向前輩詢問與沒日沒夜的製作（有時候甚至連午/晚休都不睡了），才有辦法製作成現在這個樣子，在這段時間我也學到了非常多，就像網站的基礎架構、Dreamweaver的使用與bootstrap的應用，都讓我獲益良多，也讓我更了解了我們的初代校長，創建這間學校的經過。</input2big>
+				<hr size="8px" align="center" width="100%">
+				
+				<!--我是一個人-->
+				<br>
+				<div><img src="../img/team/1_andy.png" alt="" width="100%"></div>
+				<br>
+				<input2big>　　這次參加網界博覽會讓我學到了團體合作，包括資料整理、編輯圖片、跟著高二的學長學如何架設網站、還學會了訪談的技巧，這次的主題叫馬偕在台灣，我從中學到很多馬偕博士的事情，藉由這次網界，讓我更深入的了解馬偕在台所做的事，更了解馬偕這個人。</input2big>
+				<hr size="8px" align="center" width="100%">
+				
+				<!--我是一個人-->
+				<br>
+				<div><img src="../img/team/1_nick.png" alt="" width="100%"></div>
+				<br>
+				<input2big>　　在這次參加網界博覽會中，我學習到了很多處理網站編輯、格式的排序還有訪談的技巧等等，這些都是難得的經驗，在這當中我也看到了分工合作是一件多麼重要的事情，藉由這次網界博覽會的主題是關於馬偕的一生，我也了解更多關於馬偕偉大的事蹟，很多都是平常沒有聽聞過的，真是讓我大開眼界。</input2big>
+				<hr size="8px" align="center" width="100%">
+			</div>
+		</div>
+		
+	<!-- 內文側邊按鈕選單 (┛`д´)┛-->
+        <div class="col-lg-4 sidebar-widgets">
+            <div class="widget-wrap">
+              <div class="single-sidebar-widget post-category-widget">
+                <h4 class="single-sidebar-widget__title">快速導航</h4>
+                <ul class="cat-list mt-20">
+                  <li>
+                    <a href="../zh-TW/narrative.htm" class="d-flex justify-content-between">
+                    <p>專案介紹</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="../zh-TW/maps.htm" class="d-flex justify-content-between">
+                      <p>網站地圖</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="../zh-TW/about-us.htm" class="d-flex justify-content-between">
+					  <p>關於我們</p>
+                    </a>
+                  </li>
+				  <li>
+                    <a href="../zh-TW/talk-details.htm" class="d-flex justify-content-between">
+					  <p>訪談紀錄</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              </div>
+            </div>
+        </div>
+		</div>
+		  </div>
+      
+    </section>
+
+<!-- 頁腳 (┛`д´)┛-->
+  <footer class="footer-area section-padding">
+    <div class="container">
+		<center><footer_title>最佳使用環境</footer_title></center>
+	  <hr Color="#A8A8A8" size="8px" align="center" width="30%">
+		<center>
+		  <p>作業系統 Win 7 以上、MAC OS X。</p>
+		  <p>瀏覽器：Edge、Chrome 55以上、Firefox 50.0以上、Safari 9.0以上。</p>
+		</center>
+        <center><img src="../img/index/social_media.png" alt="" width="20%"><p class="footer-text m-0">
+		Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved | 淡江高中人文社會班</p></center>
+		</div>
+  </footer>
+
+<!-- 其他控制項 (┛`д´)┛-->
+	<script src="../vendors/jquery/jquery-3.2.1.min.js"></script>
+	<script src="../vendors/bootstrap/bootstrap.bundle.min.js"></script>
+	<script src="../vendors/owl-carousel/owl.carousel.min.js"></script>
+	<script src="../js/jquery.ajaxchimp.min.js"></script>
+	<script src="../js/mail-script.js"></script>
+	<script src="../js/main.js"></script>
+	
+</body>
+</html>
