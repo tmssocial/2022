@@ -109,6 +109,14 @@ td {
 		line-height: 2.4em;
 	}
 
+    input2big-red
+	{
+		font-family: 'Noto Sans TC', sans-serif;
+		color:#791718;
+		font-size: 14pt;
+		line-height: 2.4em;
+	}
+
     input2black
 	{
 		font-family: 'Noto Sans TC', sans-serif;
