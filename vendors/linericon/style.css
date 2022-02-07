@@ -90,6 +90,24 @@ td {
 		font-size: 14pt;
 		line-height: 2.4em;
 	}
+    
+    input2big-bold
+	{
+		font-family: 'Noto Sans TC', sans-serif;
+		font-size: 14pt;
+		font-weight: bold;
+		line-height: 2.4em;
+	}
+
+
+    input2big-red
+	{
+		font-family: 'Noto Sans TC', sans-serif;
+		color:#791718;
+		font-weight: bold;
+		font-size: 14pt;
+		line-height: 2.4em;
+	}
 
     input2black
 	{
@@ -108,10 +126,22 @@ td {
 		color: #880000;
 	}
 
+
 /* 背景圖格式(zh-TW) */
 #bannerimage-index {
   width: 100%;
   background-image: url("../../img/index/banner-1.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 405px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-talk01 {
+  width: 100%;
+  background-image: url("../../img/index/talk01-banner.png");
   background-repeat:no-repeat;
   background-position: center center;
   background-size: cover;
@@ -278,6 +308,17 @@ td {
 #bannerimage-index-en {
   width: 100%;
   background-image: url("../../en-US/img/banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 405px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-talk01-en {
+  width: 100%;
+  background-image: url("../../img/index/talk01-banner.png");
   background-repeat:no-repeat;
   background-position: center center;
   background-size: cover;
