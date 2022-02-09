@@ -194,6 +194,17 @@ td {
   background-position: center;
 }
 
+#bannerimage-tms {
+  width: 100%;
+  background-image: url("../../img/index/tms-banner.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 400px;
+  background-color: black;
+  background-position: center;
+}
+
 #bannerimage-person {
   width: 100%;
   background-image: url("../../img/narrtive-zh/banner-2.png");
