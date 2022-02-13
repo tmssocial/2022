@@ -194,6 +194,17 @@ td {
   background-position: center;
 }
 
+#bannerimage-history-mackay-n {
+  width: 100%;
+  background-image: url("../../img/banner/banner-1.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 250px;
+  background-color: black;
+  background-position: center;
+}
+
 #bannerimage-tms {
   width: 100%;
   background-image: url("../../img/index/tms-banner.png");
