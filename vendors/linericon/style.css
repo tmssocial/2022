@@ -216,6 +216,28 @@ td {
   background-position: center;
 }
 
+#bannerimage-tamsui {
+  width: 100%;
+  background-image: url("../../img/banner/tamsui.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 200px;
+  background-color: black;
+  background-position: center;
+}
+
+#bannerimage-train {
+  width: 100%;
+  background-image: url("../../img/banner/09-6.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 200px;
+  background-color: black;
+  background-position: center;
+}
+
 #bannerimage-person {
   width: 100%;
   background-image: url("../../img/narrtive-zh/banner-2.png");
