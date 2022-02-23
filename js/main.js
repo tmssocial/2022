@@ -34,8 +34,10 @@ $(function() {
                 var scroll = $(window).scrollTop();   
                 if (scroll >= nav_offset_top ) {
                     $(".header_area").addClass("navbar_fixed");
+                    $(".quick-navigation").addClass("navbar_fixed");
                 } else {
                     $(".header_area").removeClass("navbar_fixed");
+                    $(".quick-navigation").addClass("navbar_fixed");
                 }
             });
         };

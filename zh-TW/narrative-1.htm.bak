@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+
+<!-- 網站修改：淡江高中人文社會班 / 2022 國際網界博覽會使用 -->
+<!-- 
+
+      ∩  ∩
+ 　　（´･ω･）      我們是淡江高中人文社會班，
+ 　 ＿|　⊃／(＿＿ 希望網頁不要有 BUG，順利參賽！
+    / └-(＿＿＿／
+	
+ -->
+  <!-- 網站初始化 (┛`д´)┛-->
+  <html lang="zh-TW">
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>計畫總覽：馬偕博士在台灣 - 2022 國際網界博覽會</title>
+  <link rel="icon" href="../img/Fevicon.png" type="image/png">
+  <link rel="stylesheet" href="../vendors/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="../vendors/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="../vendors/themify-icons/themify-icons.css">
+  <link rel="stylesheet" href="../vendors/linericon/style.css">
+  <link rel="stylesheet" href="../vendors/owl-carousel/owl.theme.default.min.css">
+  <link rel="stylesheet" href="../vendors/owl-carousel/owl.carousel.min.css">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body class="bg-light">
+
+	<!--網站SEO優化-->
+    <meta property="og:url" content="https://tmssocial.github.io/2022/"/>
+    <meta property="og:locale" content="zh_TW" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="計畫總覽：馬偕博士在台灣 - 2022 國際網界博覽會" />
+    <meta property="og:description" content="馬偕當初來到台灣，為了融入台灣人的生活，藉由和農民、牧童交談，學習完全陌生的閩南語，一次又一次的嘗試，終於和大家變成好朋友。"/>
+    <meta property="og:image" content="../img/banner/hero-banner.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1920" />
+    <meta property="og:image:height" content="1080" />
+	
+<!-- 程式碼開始 (┛`д´)┛-->
+  <header class="header_area">
+    <div class="main_menu">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container box_1620">
+			
+          <!-- LOGO 放置處 (┛`д´)┛-->
+          <a class="navbar-brand logo_h" href="index.htm"><img src="../img/logo.png" width="180" alt=""></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+			
+          <!-- 選單列 (┛`д´)┛-->
+          <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+            <ul class="nav navbar-nav menu_nav justify-content-center">
+              <li class="nav-item submenu dropdown">
+                <a href="../index.htm" class="nav-link" role="button" aria-haspopup="true" aria-expanded="false">首頁</a>
+              </li>
+				  
+			  <li class="nav-item submenu dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">參賽隊伍</a>
+                <ul class="dropdown-menu">
+				  <li class="nav-item"><a class="nav-link" href="../zh-TW/narrative.htm">專案介紹</a></li>
+				  <li class="nav-item"><a class="nav-link" href="../zh-TW/maps.htm">網站地圖</a></li>
+				  <li class="nav-item"><a class="nav-link" href="../zh-TW/about-us.htm">關於我們</a></li>
+				  <li class="nav-item"><a class="nav-link" href="../zh-TW/talk-details.htm">訪談紀錄</a></li>
+				  
+                </ul>
+              </li>
+              <li class="nav-item submenu dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">人物介紹</a>
+                <ul class="dropdown-menu">
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/george_mackay.htm">介紹馬偕博士</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles.htm">馬偕相關人物</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-family.htm">家族關係圖</a></li>
+                </ul>
+              </li> 
+			  <li class="nav-item submenu dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">傳奇一生</a>
+                <ul class="dropdown-menu">
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-01.htm">學生時期的教育</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-02.htm">從多倫多到臺灣</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-03.htm">傳道與臺灣生活</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-04.htm">馬偕與原住民</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-05.htm">關於馬偕偕醫館</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-06.htm">設立淡水牛津學堂</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-07.htm">一探究竟馬偕藏品</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-08.htm">我眼中的臺灣</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-09.htm">馬偕創立的教會</a></li>
+                </ul>
+              </li> 
+              <li class="nav-item submenu dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">歷史回顧</a>
+				  
+                <ul class="dropdown-menu">
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-contribution.htm">歷年重大貢獻</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_1.htm">漂洋過海來臺灣</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_2.htm">一生奉獻給臺灣</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_3.htm">深根在地助拔牙</a></li>
+                </ul>
+              </li>
+              <li class="nav-item submenu dropdown">
+                <a href="../zh-TW/future.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">展望未來</a>
+                <ul class="dropdown-menu">
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/future-1.htm">行動方案</a></li>
+                    <li class="nav-item"><a class="nav-link" href="../zh-TW/future-2.htm">紀念行動</a></li>
+                </ul>
+              </li>
+			  <li class="nav-item submenu dropdown">
+                <a href="../index.htm" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color:orange; hover:red;">選擇語言 ▼</a>
+                <ul class="dropdown-menu">
+					<li class="nav-item"><a class="nav-link" href="../en-US/index.htm"><img width="20%" src="../img/en-US-icon.png">  English</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.htm"><img width="20%" src="../img/zh-TW-icon.png">  中文(繁體)</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </header>
+  
+    <!-- 網站大橫幅 (┛`д´)┛-->
+	<div id="bannerimage-narrtive02"></div>
+    <section class="mb-30px">
+	  <div class="container">
+		<div class="row">
+        <div class="col-lg-8">
+            <div class="main_blog_details">
+				<h4>計畫總覽</h4>
+				<img src="../img/narrtive-zh/2.png" alt="" width="80%"><br>
+				<br>
+				<inputtitle>
+                                我們參加的競賽類別是：
+                            </inputtitle>
+                            <input2big>
+                                <br>
+                            </input2big>
+                            <input2big>
+                                地方人物領袖
+                            </input2big>
+                            <input2big>
+                                <br>
+                                <hr size="8px" align="center" width="100%">
+                            </input2big>
+                            <inputtitle>
+                                簡述這個類別：
+                            </inputtitle>
+                            <input2big>
+                                <br>
+                            </input2big>
+                            <input2big>
+                                　　偕叡理牧師，原譯名為馬偕。於150年前抵達台灣，從此便在其登陸地－淡水開始其宣教歷程。馬偕牧師的影響力不僅限於淡水地區，甚至在台灣北部一帶都具有廣泛且深遠的影響。偕叡理牧師登台初期，因當地人對外國人並不理解所以在宣教過程中屢遭排斥與羞辱，但隨著第一個信徒的到來，此情況有所改善。此後30年間，馬偕博士戮力於宣教工作，對於基督教在台灣北部發展擁有舉足輕重的地位，其後代與培育的學生也貢獻良多且於地方上頗有份量。馬偕博士身為第一位將基督教帶入台灣北部的西方宣教士，是一位對台灣宗教歷史發展十分重要的人物。
+                            </input2big>
+                            <input2big>
+                                <br>
+                                <hr size="8px" align="center" width="100%">
+                            </input2big>
+                            <inputtitle>
+                                簡述這個專題：
+                            </inputtitle>
+                            <input2big>
+                                <br>
+                            </input2big>
+                            <input2big>
+                                　　此份專題的名稱為「馬偕在台傳奇一生」。我們欲透過文獻探討與訪談等方式，回推馬偕博士於北台灣一帶（尤其淡水地區）有關宗教、教育、醫療等方面之貢獻。除此之外，我們還希望透過網站製作的形式來紀念馬偕來台宣教150周年這件事，也希望推廣馬偕博士愛台深切的偉大精神，並讓更多人體認其堅毅的精神與無私的愛心。
+                            </input2big>
+                            <hr size="8px" align="center" width="100%">
+                            <inputtitle>
+                                我們的網際網路環境：
+                            </inputtitle>
+                            <input2big>
+                                <br>
+                            </input2big>
+                            <input2big>
+                                ● 學校的環境： 學校分為小學部、國中部、高中部，合計共有5間電腦教室，每間大約有50臺電腦提供給全校同學使用，全校網路皆已連上TANET（臺灣學術網路），與政治大學端連接，網速為上傳/下載雙向300Mbps。
+                            </input2big>
+                            <input2big>
+                                <br>
+                            </input2big>
+                            <input2big>
+                                <br>
+                            </input2big>
+                            <input2big>
+                                ● 隊員家中的環境： 每個隊員大部分皆擁有筆記型電腦，家中也都有桌機可以使用，使用ADSL 上網，無法見面的時候，我們透過通訊軟體討論，使用雲端硬碟互傳資料。
+                            </input2big>
+                            <inputtitle>
+                                <br>
+                            </inputtitle>
+                            <inputtitle>
+                                <hr size="8px" align="center" width="100%">
+                            </inputtitle>
+                            <inputtitle>
+                                心得箴言：
+                            </inputtitle>
+                            <input2big>
+                                <br>
+                            </input2big>
+                            <input2big>
+                                　　藉由參與網界博覽會行動研究，我們團隊開始深入研究有關淡江中學橄欖球隊的歷史，不只走訪了校史館調閱資料，還詢問了相關的前輩，更加了解所在學校的橄欖球隊，充實了許多平常課堂上學不到的知識，從中重新認識淡江久遠的歷史。
+                            </input2big>
+                            <input2big>
+                                <br>
+                           </input2big>
+                            <hr size="8px" align="center" width="100%">
+                            <inputtitle>
+                                我們所遭遇和克服的難題：
+                            </inputtitle>
+                            <input2big>
+                                <br>
+                            </input2big>
+                            <input2big>
+                                　　剛開始我們遇到的最大問題是技術方面，因為我們不會使用美工設計軟體，更不懂網站架設的程式，但經過學長指導後，我們克服了技術上的問題。此外，過程中我們也遇到文獻資料不足的瓶頸，後來我們利用專家訪談的方式來解決，對於網路上找不到的資料，我們就想辦法去訪問馬偕研究方面的專家，感謝這些專家老師們無私地提供他們的看法，解決我們資料缺乏這方面的問題。然而整個專案進行過程中我們所遇到的最大問題是「行動力不足」，也因為欠缺行動力，所以這個研究專案其實有很長一段時間進度幾乎是停滯不前。感謝學校老師和學長沒有因為我們的懶惰而放棄我們，反而循序漸進的帶著我們一步一步的去完成所有網站內容。
+                            </input2big>  
+				</div>
+		</div>
+		
+	<!-- 內文側邊按鈕選單 (┛`д´)┛-->
+        <div class="col-lg-4 sidebar-widgets">
+            <div class="widget-wrap">
+              <div class="single-sidebar-widget post-category-widget">
+                <h4 class="single-sidebar-widget__title">快速導航</h4>
+                <ul class="cat-list mt-20">
+                  <li>
+                    <a href="../zh-TW/narrative.htm" class="d-flex justify-content-between">
+                    <p>相關資訊</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="../zh-TW/narrative-1.htm" class="d-flex justify-content-between">
+                      <p>計畫總覽</p>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="../zh-TW/narrative-2.htm" class="d-flex justify-content-between">
+					  <p>計畫要素</p>
+                    </a>
+                  </li>
+				  <li>
+                    <a href="../zh-TW/narrative-3.htm" class="d-flex justify-content-between">
+					  <p>研究貢獻</p>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              </div>
+            </div>
+        </div>
+		</div>
+		  
+      
+    </section>
+
+<!-- 頁腳 (┛`д´)┛-->
+  <footer class="footer-area section-padding">
+    <div class="container">
+		<center><footer_title>最佳使用環境</footer_title></center>
+	  <hr Color="#A8A8A8" size="8px" align="center" width="30%">
+		<center>
+		  <p>作業系統 Win 7 以上、MAC OS X。</p>
+		  <p>瀏覽器：Edge、Chrome 55以上、Firefox 50.0以上、Safari 9.0以上。</p>
+		</center>
+        <center><img src="../img/index/social_media.png" alt="" width="20%"><p class="footer-text m-0">
+		Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved | 淡江高中人文社會班</p></center>
+		</div>
+  </footer>
+
+<!-- 其他控制項 (┛`д´)┛-->
+	<script src="../vendors/jquery/jquery-3.2.1.min.js"></script>
+	<script src="../vendors/bootstrap/bootstrap.bundle.min.js"></script>
+	<script src="../vendors/owl-carousel/owl.carousel.min.js"></script>
+	<script src="../js/jquery.ajaxchimp.min.js"></script>
+	<script src="../js/mail-script.js"></script>
+	<script src="../js/main.js"></script>
+	
+</body>
+</html>
