@@ -1,0 +1,25 @@
+/* 快速導航 */
+.fast_nav{
+	position:static;
+	width:400px;
+}
+@media (min-width:1000px){
+	.fast_nav.fast_nav-fixed{
+		position:fixed;
+		top:20%;
+	}
+
+	.fast_nav.fast_nav-bottom{
+		position:relative;
+		top:80%;
+	}
+}
+@media (max-width:1000px){
+	.fast_nav.fast_nav-fixed{
+	width:100%;
+	}
+
+	.fast_nav.fast_nav-bottom{
+	width:100%;
+	}
+}

@@ -377,6 +377,17 @@ td {
   background-position: center;
 }
 
+#bannerimage-talk02 {
+  width: 100%;
+  background-image: url("../../img/banner/talk02.png");
+  background-repeat:no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 405px;
+  background-color: black;
+  background-position: center;
+}
+
 #bannerimage-profiles {
   width: 100%;
   background-image: url("../../img/index/profiles-banner.png");

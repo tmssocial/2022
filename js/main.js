@@ -43,6 +43,45 @@ $(function() {
     navbarFixed();
 
 
+	//* 快速導航參數
+  var fast_nav_offset_top = $('header').height() + 130; 
+	//* 快速導航 隨畫面移動
+    function fast_navFixed(){
+        if ( $('.fast_nav').length ){ 
+            $(window).scroll(function() {
+                var scroll = $(window).scrollTop();   
+                if (scroll >= fast_nav_offset_top ) {
+                    $(".fast_nav").addClass("fast_nav-fixed");
+                } else {
+                    $(".fast_nav").removeClass("fast_nav-fixed");
+                }
+            });
+        };
+    };
+    fast_navFixed();
+	
+	
+  var fast_nav_offset_bottom = $(document).height() - 1200; 
+	// 快速導航 置底
+    function fast_navBottom(){
+        if ( $('.fast_nav').length ){ 
+            $(window).scroll(function() {
+                var scroll = $(window).scrollTop();   
+                if (scroll >= fast_nav_offset_bottom ) {
+                    $(".fast_nav").addClass("fast_nav-bottom");
+                } else {
+                    $(".fast_nav").removeClass("fast_nav-bottom");
+                }
+            });
+        };
+    };
+    fast_navBottom();
+	
+	
+	
+
+
+
   if ($('.blog-slider').length) {
     $('.blog-slider').owlCarousel({
         loop: true,
