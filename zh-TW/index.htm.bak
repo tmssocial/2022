@@ -69,7 +69,7 @@
 				  <li class="nav-item"><a class="nav-link" href="../zh-TW/narrative.htm">專案介紹</a></li>
 				  <li class="nav-item"><a class="nav-link" href="../zh-TW/maps.htm">網站地圖</a></li>
 				  <li class="nav-item"><a class="nav-link" href="../zh-TW/about-us.htm">關於我們</a></li>
-				  <li class="nav-item"><a class="nav-link" href="../zh-TW/talk-details.htm">訪談紀錄</a></li>
+				  
 				  
                 </ul>
               </li>
@@ -81,10 +81,19 @@
 					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-family.htm">家族關係圖</a></li>
                 </ul>
               </li> 
-			  <li class="nav-item submenu dropdown">
+              <li class="nav-item submenu dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">傳奇一生</a>
                 <ul class="dropdown-menu">
-					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-01.htm">學生時期的教育</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-contribution.htm">歷年重大貢獻</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_1.htm">漂洋過海來臺灣</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_2.htm">一生奉獻給臺灣</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_3.htm">深根在地助拔牙</a></li>
+                </ul>
+              </li>
+			  <li class="nav-item submenu dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">主題探究</a>
+                <ul class="dropdown-menu">
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-01.htm">成為海外傳教士</a></li>
 					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-02.htm">從多倫多到臺灣</a></li>
 					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-03.htm">傳道與臺灣生活</a></li>
 					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-04.htm">馬偕與原住民</a></li>
@@ -93,16 +102,7 @@
 					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-07.htm">一探究竟馬偕藏品</a></li>
 					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-08.htm">我眼中的台灣</a></li>
 					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-profiles/history-mackay-09.htm">馬偕創立的教會</a></li>
-                </ul>
-              </li> 
-              <li class="nav-item submenu dropdown">
-                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">歷史回顧</a>
-				  
-                <ul class="dropdown-menu">
-					<li class="nav-item"><a class="nav-link" href="../zh-TW/person-contribution.htm">歷年重大貢獻</a></li>
-					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_1.htm">漂洋過海來臺灣</a></li>
-					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_2.htm">一生奉獻給臺灣</a></li>
-					<li class="nav-item"><a class="nav-link" href="../zh-TW/history_3.htm">深根在地助拔牙</a></li>
+					<li class="nav-item"><a class="nav-link" href="../zh-TW/talk-details.htm">訪談紀錄</a></li>
                 </ul>
               </li>
               <li class="nav-item submenu dropdown">
@@ -135,9 +135,7 @@
             <div class="main_blog_details">
 			
 			<h4>研究動機</h4>
-				<input2big>　　馬偕博士作為此次國際網界博覽會的主題，是因為今年是馬偕在臺的第150週年，加上我們所就讀的淡江中學就是馬偕的兒子偕叡廉所創辦的，更需要去紀念馬偕在台的偉大教育、傳教跟醫療，因此我們深入研究、實地探訪、採訪相關人物、聽相關演講，來造就整個網站的形成。</input2big>
-				
-				<!-- CC3.0 Picture -->
+				<input2big>　　因為今年是馬偕在臺的第150週年，所以將馬偕博士作為此次國際網界博覽會的主題，加上我們所就讀的淡江中學就是由馬偕之子偕叡廉所創辦，而且馬偕墓園在我們學校，更需要去紀念馬偕在台的偉大教育、傳教跟醫療，因此我們深入研究、實地探訪、採訪相關人物或是去參與相關演講，一步一步完成這個網站。</input2big>
 				<br>
 				<center><img class="img-fluid" src="../img/index/index_introduce.png" alt=""></center>
 				<center><p>▲ 馬偕博士與他的學生們／來源：<a href="https://openmuseum.tw/objects?l_field%5Bcontributor%40%E7%9B%B8%E9%97%9C%E4%BA%BA%E7%89%A9%5D=%E9%A6%AC%E5%81%95&page=1">《開放博物館》</a></p></center>
@@ -332,14 +330,15 @@
 				<br>
 				<div id="button_zoomout"><a href="../zh-TW/narrative.htm"><img src="../img/index/index-1-button.png" alt="" width="100%"></a></div>
 				<div id="button_zoomout"><a href="../zh-TW/about-us.htm"><img src="../img/index/index-2-button.png" alt="" width="100%"></a></div>
+				<div id="button_zoomout"><a href="../zh-TW/changelog.htm"><img src="../img/about-us/host_button-computer.png" alt="" width="100%"></a></div>
 				<div id="button_zoomout"><a href="../zh-TW/changelog.htm"><img src="../img/index/changelog_button.png" alt="" width="100%"></a></div>
   
 			</div>
 		</div>
 		
 	<!-- 內文側邊按鈕選單 (┛`д´)┛-->
-	<div class="fast_nav">
-        <div class="col-lg-4 sidebar-widgets">
+    <div class="col-lg-4 sidebar-widgets">
+		<div class="fast_nav">
             <div class="widget-wrap">
               <div class="single-sidebar-widget post-category-widget">
                 <h4 class="single-sidebar-widget__title">快速導航</h4>
@@ -365,6 +364,7 @@
                     </a>
                   </li>
                 </ul>
+              </div>
               </div>
               </div>
             </div>

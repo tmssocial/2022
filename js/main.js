@@ -44,7 +44,7 @@ $(function() {
 
 
 	//* 快速導航參數
-  var fast_nav_offset_top = $('header').height() + 130; 
+  var fast_nav_offset_top = $('header').height() + 140; 
 	//* 快速導航 隨畫面移動
     function fast_navFixed(){
         if ( $('.fast_nav').length ){ 
@@ -76,11 +76,45 @@ $(function() {
         };
     };
     fast_navBottom();
-	
-	
-	
 
 
+
+// 主題探究
+	//* 主題探究 參數
+  var makcy_nav_offset_top = $('header').height() + 130; 
+	//* 主題探究 隨畫面移動
+    function makcy_navFixed(){
+        if ( $('.makcy_nav').length ){ 
+            $(window).scroll(function() {
+                var scroll = $(window).scrollTop();   
+                if (scroll >= makcy_nav_offset_top ) {
+                    $(".makcy_nav").addClass("fast_nav-fixed");
+                } else {
+                    $(".makcy_nav").removeClass("fast_nav-fixed");
+                }
+            });
+        };
+    };
+    makcy_navFixed();
+	
+	
+  var makcy_nav_offset_bottom = $(document).height() - 1400; 
+	// 主題探究 置底
+    function makcy_navBottom(){
+        if ( $('.makcy_nav').length ){ 
+            $(window).scroll(function() {
+                var scroll = $(window).scrollTop();   
+                if (scroll >= makcy_nav_offset_bottom ) {
+                    $(".makcy_nav").addClass("fast_nav-bottom");
+                } else {
+                    $(".makcy_nav").removeClass("fast_nav-bottom");
+                }
+            });
+        };
+    };
+    makcy_navBottom();
+	
+	
 
   if ($('.blog-slider').length) {
     $('.blog-slider').owlCarousel({
