@@ -98,7 +98,7 @@ $(function() {
     makcy_navFixed();
 	
 	
-  var makcy_nav_offset_bottom = $(document).height() - 1300; 
+  var makcy_nav_offset_bottom = $(document).height() - 1500; 
 	// 主題探究 置底
     function makcy_navBottom(){
         if ( $('.makcy_nav').length ){ 
