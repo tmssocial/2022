@@ -112,7 +112,7 @@ a {
 	color: #ff9907
 }
 .header_area .menu_nav {
-	width: 100%
+	width: 100%;
 }
 .header_area .navbar {
 	background: transparent;
@@ -358,7 +358,7 @@ a {
 	}
 	.navbar .container {
 		padding-left: 15px;
-		padding-right: 15px
+		padding-right: 15px;
 	}
 	.nav {
 		padding: 0px 0px
