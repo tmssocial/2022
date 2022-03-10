@@ -4,30 +4,6 @@
 
 
 
-@media (min-width: 1400px)
-.navbar-expand-lg .navbar-nav {
-    flex-direction: row !important;
-}
-
-
-
-@media (min-width: 1400px){
-.navbar-expand-lg {
-    flex-wrap: nowrap !important;
-    justify-content: flex-start !important;
-}
-
-
-@media (max-width: 1400px){
-.header_area .navbar{
-    background: #E5E5E5 !important;
-}
-}
-
-
-
-
-
 /* .logo-en{ */
 	/* margin-right:100px; */
 /* } */
