@@ -133,7 +133,7 @@
 			  <h4>計畫總覽</h4>
 			  <img src="../img/narrtive-zh/2.png" alt="" width="80%">
 			  </div><div class="main_blog_details"><br>
-				
+				<hr>
 <input2big>
 	          <inputtitle> Part 1 【第一部分】</inputtitle><br>
 		        
@@ -228,9 +228,9 @@
                     </tr>
                   </tbody></table>
 				  <hr>
-				  <inputtitle>學生以何種方式，擔任 CyberFair 項目的"大使"和發言人？</inputtitle><br>
+				  <inputtitle>學生以何種方式，擔任 CyberFair 項目的&quot;大使&quot;和發言人？</inputtitle><br>
                   參加「國際學校網界博覽會」的參賽者，負有向全世界觀眾介紹自己鄉土特色的使命。過去這幾個月來我們利用資料蒐集、文獻探討、人物採訪、攝影、紀錄等一系列方法，將所有與馬偕博士有關的資料先做一完整的整理，同時也逐步將我們的研究成果製成網頁，希望透過網路無遠弗屆的影響力讓全世界更多人認識馬偕，也認識我們的社區。我們也會努力將我們的網站內容建構完整，成為最優秀的社區大使，將馬偕的故事行銷給更多人知道。 <br>
-                  <hr>
+                  <br>
                   <inputtitle>Part 4【第四部分】</inputtitle><br>
                   <inputtitle>這個專題對這個社區、社會有什麼影響？(300字)</inputtitle><br>
                   近150年來，懷抱著宗教熱忱來台的宣教士不少，不過其中以馬偕牧師最認同台灣，他不但娶台灣老婆，而且他的兩個女兒也都嫁給台灣人。28歲那年他來到淡水，他在日記裏寫下：「船進淡水港停泊，我心激動，於是我立刻明白就是這個地方了，過去從未有人在此宣教，感謝主！」他對淡水的山水之美一見鍾情，直到1901年6月2日他因喉癌去世，終身沒有改變他對淡水這塊土地的愛戀。馬偕博士遠從加拿大渡海來台，以淡水為家，作為傳教、醫療和教育的基地，歷經千辛萬苦，建立了教會、醫療館、學校，他不但對於淡水貢獻良多，也對台灣社會產生很大影響。而這個專題主要是希望藉由我們研究、訪查馬偕相關事蹟，讓更多人了解馬偕為家鄉所做的努力，感受他無私奉獻的精神，學習他愛與服務的情操，最重要的是，我們也希望藉由這個網站，能夠讓更多台灣人認同自己所生長的土地，做一位真心關愛故鄉的人。
@@ -295,7 +295,7 @@
 		  <p>瀏覽器：Edge、Chrome 55以上、Firefox 50.0以上、Safari 9.0以上。</p>
 		</center>
         <center><img src="../img/index/social_media.png" alt="" width="20%"><p class="footer-text m-0">
-		Copyright ©<script>document.write(new Date().getFullYear());</script>202220222022 All rights reserved | 淡江高中人文社會班</p></center>
+		Copyright ©<script>document.write(new Date().getFullYear());</script>20222022 All rights reserved | 淡江高中人文社會班</p></center>
 		</div>
   </footer>
 

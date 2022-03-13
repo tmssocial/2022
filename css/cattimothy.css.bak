@@ -1,5 +1,5 @@
 .nav-item .en{
-	min-width: 260px;
+	min-width: 300px;
 }
 
 

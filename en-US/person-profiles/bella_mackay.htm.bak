@@ -146,7 +146,7 @@
 				  <tbody>
 				    <tr>
 				      <th width="20%">Type</th>
-				      <th width="80%">Introduction</th>
+				      <th width="80%">Brief Introduction</th>
 			        </tr>
 				    <tr>
 				      <th>Name</th>
@@ -187,7 +187,7 @@
               <table>
 					  <tr>
                   		<th width="20%">Years</th>
-                  		<th width="80%">Introduction</th>
+                  		<th width="80%">Brief Introduction</th>
                       </tr>
 					  <tr>
 						<td>1880</td>

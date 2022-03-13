@@ -15,7 +15,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>George William Mackay - George Mackay in Taiwan</title>
+  <title>Mackay’s Collections  - George Mackay in Taiwan</title>
   <link rel="icon" href="../../img/Fevicon.png" type="image/png">
   <link rel="stylesheet" href="../../vendors/bootstrap/bootstrap.min.css">
   <link rel="stylesheet" href="../../vendors/fontawesome/css/all.min.css">
@@ -28,7 +28,7 @@
     <meta property="og:url" content="https://tmssocial.github.io/2022/"/>
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Mary Ellen Mackay - George Mackay in Taiwan" />
+    <meta property="og:title" content="The Mackay Hospital - George Mackay in Taiwan" />
     <meta property="og:description" content="George Mackay in Taiwan"/>
     <meta property="og:image" content="../../img/banner/hero-banner.png" />
     <meta property="og:image:type" content="image/png" />
@@ -49,7 +49,7 @@
         <div class="container box_1620">
 
           <!-- LOGO (┛`д´)┛-->
-          <a class="navbar-brand logo_h" href="../index.htm"><img src="../img/logo.png" width="180" alt=""></a>
+          <a class="navbar-brand logo_h" href="../../en-US/index.htm"><img src="../img/logo.png" width="180" alt=""></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -123,131 +123,159 @@
     </div>
   </header>
 
-    <!-- 網站大橫幅 (┛`д´)┛-->
-	<div id="bannerimage-person"></div>
 
-<!-- 文章內容片段 (┛`д´)┛-->
-  <section class="mb-30px">
-    <div class="container">
-      <div class="row">
+
+  <!-- 網站大橫幅 (┛`д´)┛-->
+	<div id="bannerimage-history-mackay-n"></div>
+	
+    <section class="mb-30px">
+	  <div class="container">
+		<div class="row">
         <div class="col-lg-8">
-            <div class="main_blog_details">
-                <a href="#">
-                <h4>George William Mackay</h4>
-                </a>
-                <div class="user_details">
-                  <div class="float-left">
-                    <a href="../../en-US/person-profiles.htm">PROFILE</a>
-                  </div>
-                </div>
-				<center><p><img width="259" height="194" src="../../img/person-profiles/george_william-001.png" alt="一張含有 男人, 牆, 個人, 室內 的圖片  自動產生的描述"> <br>
-                  George William Mackay</p></center>
-				  
-                <table>
-                  <tbody>
-                    <tr>
-                      <th width="20%">Type</th>
-                      <th width="80%">Brief Introduction</th>
-                    </tr>
-                    <tr>
-                      <th>Name</th>
-                      <td>George William Mackay</td>
-                    </tr>
-                    <tr>
-                      <th>Gender</th>
-                      <td>Male</td>
-                    </tr>
-                    <tr>
-                      <th>Born</th>
-                      <td>1882/01/22</td>
-                    </tr>
-                    <tr>
-                      <th>Passed away</th>
-                      <td>1963/07/20 at Mackay Memorial Hospital due to pneumonia</td>
-                    </tr>
-                    <tr>
-                      <th>Identity and Titles</th>
-                      <td>● Son of Dr.George Leslie Mackay<br>
-● Youngest in the family (eldest sister Mary Ellen Mackay and second sister Bella Katherine Mackay Koa）<br>
-● Husband of Mrs.Jean Ross Mackay<br>
-● 2 sons and 3 daughters: Leslie William Mackay, John Ross Mackay, Ana Mackay, Isabel Mackay, Margaret Mackay</td>
-                    </tr>
-                  </tbody>
-            </table>
+          <div class="main_blog_details">
+			<a href="#"><h4>Mackay’s Collections</h4></a>
+				
+			<!-- CC3.0 Picture -->
+			<center><img class="img-fluid" src="../../img/mackay-relative/museum_old.png" alt=""></center>
+			<center><p>▲ Photographs of the Museum from Mackay’s Home／Source：<a href="https://openmuseum.tw/objects?l_field%5Bcontributor%40%E7%9B%B8%E9%97%9C%E4%BA%BA%E7%89%A9%5D=%E9%A6%AC%E5%81%95&page=1">《Open Museum》</a></p></center>
+			<br>
+			<!-- CC3.0 Picture -->
+			<h4>The first theme of the collection</h4>
+			  
+			<h2>【Idols given by believers】</h2>
+		    <input2big class="text">　　The believers of Mackay gave the Idols of their home to Mackay after they were officially baptized into Christianity.<br>
+		      From left to right, the photos are Guanyin Bodhisattva, Xuantian God, Tianshang sheng Mazu, Land Gong, Third Prince Nezha, and Shennong The Great.<br>
+		      <br>
+		      <h4>The second theme of the collection</h4>
+			  <h2>【Mackay collects cultural relics of Taiwanese Plains Indigenous Peoples】</h2>
+		      Among the plains indigenous people cultural collections of the Mackay, the cultural Relics of Kebalan are the most numerous, such as the Taoist wooden rune tokens, lion-headed beast cards, wooden handle snakes whips, carved bamboo pillows, talc pen washes, and many other cultural relics.<br>
+		      <h4>【The movement of the Mackay’s collection in foreign countries】</h2>
+		      Because of the need to present the main physical evidence of the impression of Taiwan to the elders of the Diocese of Canada, many of the collections were donated to the Roxbury Community College in Toronto on his second return to Canada in April 1893, because in 1905 the Roxbury Community College merged with the University of Toronto, so the collection is now on display at the Royal Ontario Museum in Toronto, Canada.<br>
+		      <h4>【The source of the Mackay collection】</h2>
+		      Most of these collections were collected by Mackay and donated by believers during his missionary journey, and because Mackay would pass through the indigenous tribes on the way to preaching, more than 2/3 of Mackay's collection was the relics of the aborigines, and most of these aboriginal artifacts were from the Kbalan tribe.<br>
+		      <h4>【Classification of the Mackay collection】</h2>
+		      In addition, the following is Mackay's classification of the Taiwan ethnic groups at that time. Mackay divided the Taiwanese into Chinese, aborigines, of which Mackay divided these two ethnic groups into several different language groups.<br>
+		    </input2big>
+		    <!-- CC3.0 Picture -->
+			<center><img class="img-fluid" src="../../img/mackay-relative/mackay_collection_1.png" alt=""></center>
+			<center><p>▲ idols pictures／Source：<a href="https://openmuseum.tw/objects?l_field%5Bcontributor%40%E7%9B%B8%E9%97%9C%E4%BA%BA%E7%89%A9%5D=%E9%A6%AC%E5%81%95&page=1">《Open Museum》</a></p></center>
+			<br>
+			<!-- CC3.0 Picture -->
+			<h4>The second theme of the collection</h4>
+			  
+			<h2>【Mackay collects cultural relics of Taiwanese Plains Indigenous Peoples】</h2>
+			<input2big class="text">　　Among the plains indigenous people cultural collections of the Mackay, the cultural Relics of Kebalan are the most numerous, such as Taoist wooden rune tokens, lion-headed beast cards, wooden handle snakes whips, carved bamboo pillows, talc pen washes, and many other cultural relics. </input2big>
+			<br><input2big class="text"></input2big><br>
+			<h2>【The movement of the Mackay’s collection in foreign countries】</h2>
+			<input2big class="text">　　Because of the need to present the main physical evidence of the impression of Taiwan to the elders of the Diocese of Canada, many of the collections were donated to the Roxbury Community College in Toronto on his second return to Canada in April 1893, because in 1905 the Roxbury Community College merged with the University of Toronto, so the collection is now on display at the Royal Ontario Museum in Toronto, Canada.</input2big>
+			<!-- CC3.0 Picture -->
+			<center><img class="img-fluid" src="../../img/mackay-relative/screenshot_TECOM.png" alt=""></center>
+			<center><p>▲ Source：<a href="http://tecom.digital.ntu.edu.tw/search.php?q=%E9%A6%AC%E5%81%95&x=0&y=0">《NTU Digital Tecom》</a></p></center>
+			<br>
+			<!-- CC3.0 Picture -->
+			<!-- CC3.0 Picture -->
+			<center><img class="img-fluid" src="../../img/mackay-relative/screenshot_TECOM_2.png" alt=""></center>
+			<center><p>▲ Source：<a href="http://tecom.digital.ntu.edu.tw/search.php?q=%E9%A6%AC%E5%81%95&x=0&y=0">《NTU Digital Tecom》</a></p></center>
+			<br>
+			<!-- CC3.0 Picture -->
+			<h2>【The source of the Mackay collection】</h2>
+			<input2big class="text">
+			  　　Most of these collections were collected by Mackay and donated by believers during his missionary journey, and because Mackay would pass through the indigenous tribes on the way to preaching, more than 2/3 of Mackay's collection was the relics of the aborigines, and most of these aboriginal artifacts were from the Kbalan tribe.
+			</input2big>
+			<br><input2big class="text"></input2big><br>
+
+			<h2>【Classification of the Mackay collection】</h2>
+			<input2big class="text">
+			  　　In addition, the following is Mackay's classification of the Taiwan ethnic groups at that time Mackay divided the Taiwanese into Chinese, aborigines, of which Mackay divided these two ethnic groups into several different language groups.
+			</input2big>
+			<!-- CC3.0 Picture -->
+			<center><img class="img-fluid" src="../../img/mackay-relative/Ethnic_Groups.png" alt=""></center>
+			<center><p>▲ Mackay's view on the classification of Taiwan's ethnic groups／Source：<a href="http://education.digital.ntu.edu.tw/taiwanhistory/overseas/foreign_collectors_in_taiwan/mackay/page_13.html">《NTU Digital Education》</a></p></center>
+			<br>
+			<!-- CC3.0 Picture -->
+			<!-- CC3.0 Picture -->
+			<center><img class="img-fluid" src="../../img/mackay-relative/Ethnic_Groups.png" alt=""></center>
+			<center><p>▲ An analysis of the types of artifacts in Mackay's Taiwan collection／Source：<a href="http://education.digital.ntu.edu.tw/taiwanhistory/overseas/foreign_collectors_in_taiwan/mackay/page_15.html">《NTU Digital Education</a></p></center>
+			<br>
+			<!-- CC3.0 Picture -->
 			
-                <hr size="8px" align="center" width="100%"><br>
-                <input2big></input2big>
-                <input2big>　　George William  Mackay grew up in Taiwan and later went to study abroad in Hong Kong (Victoria  Academy), Canada (St. Andrew&rsquo;s College and Toronto University), and got a  master's degree in psychology from Massachusetts Clark University. Soon after,  he was sent to Taiwan as a missionary by the Christian and Missionary Alliance.</input2big>
-                <br><input2big></input2big><br>
-				<input2big>　　Apart from his  mission of spreading the gospel, another objective was to construct a local  school. Therefore, he established Tamkang High School to cultivate Taiwanese  missionaries and pastors. Coincidentally, March 9th was the day the Japanese  government approved the school&rsquo;s establishment and it was also the date when  Dr.George Leslie Mackay, his father arrived at Tamsui. And because of this,  March 9th of every year has been Tamkang High School&rsquo;s anniversary celebration  to this day.</input2big>
-<img src="../img/person-profiles/bg-george_william-002.png" alt="" width="100%">
+			<!--References-->
+			<center><hr Color="#A8A8A8" align="center" width="100%"><center>
+			<center><img class="img-fluid" src="../../img/References.png" alt="" width="30%"></center>
+			<center><p>Referring URL：<a href="https://openmuseum.tw/">Open Museum</a>｜<a href="http://education.digital.ntu.edu.tw/taiwanhistory/overseas/">NTU Digital Education</a></p></center>
+		    <!--References-->
+			
+          </div>
+		</div>
 
-			  <p>&nbsp;</p>
-				<hr size="8px" align="center" width="100%">
-              <p>
-                <inputtitle>Chronology of events</inputtitle>
-              </p>
-              <table>
-					  <tr>
-                  		<th width="20%">Years</th>
-                  		<th width="80%">Brief Introduction</th>
-                      </tr>
-					  <tr>
-						<td>1882</td>
-						<td>Born</td>
-					  </tr>
-					  <tr>
-						<td>1911</td>
-						<td>Married Mrs.Jean Ross Mackay</td>
-					  </tr>
-					  <tr>
-						<td>1914</td>
-						<td>Founded Tamkang high school and approved by the    Japanese Government</td>
-					  </tr>
-					  <tr>
-						<td>1963</td>
-						<td>Passed away</td>
-					  </tr>
-              </table>
-            </div>
-        </div>
 
-<!-- content menu (┛`д´)┛-->
+
+      <!-- content menu (┛`д´)┛-->
         <div class="col-lg-4 sidebar-widgets">
-			  <div class="fast_nav">
+		  <div class="makcy_nav">
             <div class="widget-wrap">
               <div class="single-sidebar-widget post-category-widget">
-                <h4 class="single-sidebar-widget__title">Shortcuts</h4>
+                <h4 class="single-sidebar-widget__title">The Legendary Life</h4>
                 <ul class="cat-list mt-20">
                   <li>
-                    <a href="../../en-US/narrative.htm" class="d-flex justify-content-between">
-                    <p>Project introduction</p>
+                    <a href="history-mackay-01.htm" class="d-flex justify-content-between">
+                    <p>Missonary Abroad</p>
                     </a>
                   </li>
                   <li>
-                    <a href="../../en-US/maps.htm" class="d-flex justify-content-between">
-                      <p>Site map</p>
+                    <a href="history-mackay-02.htm" class="d-flex justify-content-between">
+                      <p>From Toronto to Taiwan</p>
                     </a>
                   </li>
                   <li>
-                    <a href="../../en-US/about-us.htm" class="d-flex justify-content-between">
-					  <p>About us</p>
+                    <a href="history-mackay-03.htm" class="d-flex justify-content-between">
+					  <p> Mackay came to Taiwan and encountered difficulties </p>
                     </a>
                   </li>
 				  <li>
-                    <a href="../../en-US/talk-details.htm" class="d-flex justify-content-between">
+                    <a href="history-mackay-04.htm" class="d-flex justify-content-between">
+					  <p>Mackay and the Aborigines</p>
+                    </a>
+                  </li>
+				  <li>
+                    <a href="history-mackay-05.htm" class="d-flex justify-content-between">
+					  <p>The Mackay Hospital</p>
+                    </a>
+                  </li>
+				  <li>
+                    <a href="history-mackay-06.htm" class="d-flex justify-content-between">
+					  <p>Tamsui Oxford College</p>
+                    </a>
+                  </li>
+				  <li>
+                    <a href="history-mackay-07.htm" class="d-flex justify-content-between">
+					  <p>Mackay’s Collections</p>
+                    </a>
+                  </li>
+				  <li>
+                    <a href="history-mackay-08.htm" class="d-flex justify-content-between">
+					  <p>Taiwan through my eyes</p>
+                    </a>
+                  </li>
+				  <li>
+                    <a href="history-mackay-09.htm" class="d-flex justify-content-between">
+					  <p>Mackay’s Churches</p>
+                    </a>
+                  </li>
+				  <li>
+                    <a href="../talk-details.htm" class="d-flex justify-content-between">
 					  <p>Interview records</p>
                     </a>
                   </li>
                 </ul>
               </div>
-              </div>
-              </div>
-            </div>
+          </div>
         </div>
+      </div>
+
 		</div>
-
-
+		  
+      
     </section>
 
 <!-- footer (┛`д´)┛-->

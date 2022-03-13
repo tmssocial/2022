@@ -10,12 +10,11 @@
 
  -->
   <!-- loading (┛`д´)┛-->
-  <html lang="en">
-  <head>
+<html lang="en"><head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Missonary Abroad - George Mackay in Taiwan</title>
+  <title>Taiwan through my eyes - George Mackay in Taiwan</title>
   <link rel="icon" href="../../img/Fevicon.png" type="image/png">
   <link rel="stylesheet" href="../../vendors/bootstrap/bootstrap.min.css">
   <link rel="stylesheet" href="../../vendors/fontawesome/css/all.min.css">
@@ -25,21 +24,21 @@
   <link rel="stylesheet" href="../../vendors/owl-carousel/owl.carousel.min.css">
 
         <!--META SEO-->
-    <meta property="og:url" content="https://tmssocial.github.io/2022/"/>
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Missonary Abroad - George Mackay in Taiwan" />
-    <meta property="og:description" content="George Mackay in Taiwan"/>
-    <meta property="og:image" content="../../img/banner/hero-banner.png" />
-    <meta property="og:image:type" content="image/png" />
-    <meta property="og:image:width" content="1920" />
-    <meta property="og:image:height" content="1080" />
+    <meta property="og:url" content="https://tmssocial.github.io/2022/">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Taiwan through my eyes - George Mackay in Taiwan">
+    <meta property="og:description" content="George Mackay in Taiwan">
+    <meta property="og:image" content="../../img/banner/hero-banner.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1920">
+    <meta property="og:image:height" content="1080">
 	  <!-- MDB -->
-   <link rel="stylesheet" href="../../css/mdb.min.css" />
+   <link rel="stylesheet" href="../../css/mdb.min-en.css">
   <link rel="stylesheet" href="../../css/style.css">
   <!-- My CSS -->
 <link rel="stylesheet" href="../../css/cattimothy.css">
-</head>
+<style>INPUT:-webkit-autofill,SELECT:-webkit-autofill,TEXTAREA:-webkit-autofill{animation-name:onautofillstart}INPUT:not(:-webkit-autofill),SELECT:not(:-webkit-autofill),TEXTAREA:not(:-webkit-autofill){animation-name:onautofillcancel}@keyframes onautofillstart{}@keyframes onautofillcancel{}</style><style>INPUT:-webkit-autofill,SELECT:-webkit-autofill,TEXTAREA:-webkit-autofill{animation-name:onautofillstart}INPUT:not(:-webkit-autofill),SELECT:not(:-webkit-autofill),TEXTAREA:not(:-webkit-autofill){animation-name:onautofillcancel}@keyframes onautofillstart{}@keyframes onautofillcancel{}</style></head>
 <body class="bg-light">
 
 <!-- start (┛`д´)┛-->
@@ -133,40 +132,98 @@
 		<div class="row">
         <div class="col-lg-8">
           <div class="main_blog_details">
-				<a href="#"><h4>Missonary Abroad<div style="font-size: 18px">（Missonary Abroad）</div></h4></a>
-			  	
-				<h2>【What reason lead Mackay to preach?】</h2>
-			<input2big class="text">　　The Mackay family, which was originally from the Scottish Highlands and later then triggered by the British Revolution, caused the Mackay family to flee to the village in Embro, Zorra Township, Oxford County, Ontario, Canada because there were heavily indebted.</input2big>
-			<br><input2big class="text"></input2big>
-			<br><input2big class="text"></input2big>
-			<input2big class="text">　　In 1832, the first church was established in the village of Zora, and the church was stacked with 18 round head beams, so it was called "old log church" by later generations and demolished because it was too old. The only remaining photos remain a model of the former Embro, Zorra Township, Oxford County, Ontario, Canada, and a painting of an old log church.</input2big>
-			<br><input2big class="text"></input2big>
-			<br><input2big class="text"></input2big>
-			<input2big class="text">　　The first pastor of the old log church, Rev. Donald Mackenzie, was a priest whom The Scottish Ross Assembly announced came to Canada, and Donald Mackenzie became the first pastor in Zorra Village and elected eight elders on September 5, 1835, of which Mackay's father, George Mackay, was one of them.</input2big>
-			<br><input2big class="text"></input2big>
-			<br><input2big class="text"></input2big>
-			<input2big class="text">　　After his retirement, Rev. Donald Mackenzie of Zorra Village believed that Christianity should be spread around the world, so he guided a total of 38 young people on the path of preaching, including Mackay, who went to Taiwan.</input2big>
-			<!-- CC3.0 Picture -->
-			<center><img class="img-fluid" src="../../img/mackay-relative/mackay_home.png" alt=""></center>
-			<center><p>▲ Oxford Zorra／Source：<a href="https://openmuseum.tw/objects?l_field%5Bcontributor%40%E7%9B%B8%E9%97%9C%E4%BA%BA%E7%89%A9%5D=%E9%A6%AC%E5%81%95&page=1">《Open Museum》</a></p></center>
-			<!-- CC3.0 Picture -->
+				<a href="#"><h4>Taiwan through my eyes(Chinese)</h4></a><br>
+			  <blockquote>
+              <p>Góa chôan-sim sóu thiàⁿ-sioh ê Tâi-ôan ah ,</p>
+              <p>Góa ê chheng-chhun lóng-chóng hiàn hōu lí .</p>
+			  <p>Góa chôan-sim sóu thiàⁿ-sioh ê Tâi-ôan ah ,</p>
+			  <p>Góa it-seng ê hoaⁿ-hí lóng tī chia .</p>
+				  <cite>〈馬偕博士 ê 遺言書Má-kai Phok-sū Ê Ûi-giân-su〉</cite>
+              </blockquote>
+			  <center><img src="../../img/mackay_diary_02.jpg" width="50%" alt=""><img src="../../img/mackay_diary_01.jpg" width="50%" alt=""></center>
+			<input2big class="text">　　Mackay started writing dairy on 1 November 1871, buy he arrived in Taiwan on December 1872. He accomplished many achievements, including spreading gospel, medical, education, and culture advancements.</input2big>
+			<input2big class="text"><br>
+            </input2big>
+            <input2big class="text"><br>
+            </input2big>
+			<p></p><h2>【Medical】</h2><p></p>
+			<input2big class="text">　　Because Mackay only saw medical works as a part of daily life, therefore he didn’t wrote it particularly in his diary.</input2big>
+			<input2big class="text"><br>
+			<p></p><h2>【Education】</h2><p></p>
+			<input2big class="text">　　The following are some excerpt of the Mackay diary recording his missionary life and teaching contribution.</input2big>
+			<input2big class="text"><br>
+            </input2big>
+            <input2big class="text"><br>
+            </input2big>
 			
-			　　<p><h2>【Why did Mackay come to Taiwan?】</h2></p>
-			<input2big class="text">　　In September 1870, at the age of 26, Mackay applied to the Canadian Presbyterian Overseas Advocacy Association to volunteer as an overseas missionary teacher, but because Mackay was still too young to be trusted by the church, many said that Mackay was too impatient and needed some experience, so he was not immediately approved. But Mackay wasn’t lazy during waiting, in November, he went to the University of Edinburgh Seminary in England to study and refine himself, fortunately, in April of the following year, Mackay received a letter from the president of the Overseas Missionary Society of the Presbyterian Church of Canada, saying that his application had been approved and submitting his application to the General Assembly, and in mid-June, the Presbyterian Church of Canada held a meeting in Quebec and decided to send him to China for the mission.</input2big>
+			<!--摘要-->
+			<center><input2big-red>May, 1875 Mackay’s contribution on missionary and education works</input2big-red></center>
+			<blockquote>
+              　<p>●　Mon. 17.：<span style="text-align: var(--mdb-body-text-align);">Feverish, Still teaching all day. Preached at night —</span></p>
+				<p>●　Tues. 18.：<span style="text-align: var(--mdb-body-text-align);">Fever — Taught and Preached.</span></p>
+				<p>●　Wed. 19.：<span style="text-align: var(--mdb-body-text-align);">Severe chills &amp; fever. Drilled students and held eve. meeting.</span></p>
+				<p>●　Thurs. 20.：<span style="text-align: var(--mdb-body-text-align);">In bed a good deal. taught sitting there. Students so kind so attentive — so thoughtful.</span></p>
+				<p>●　Fri. 21.：<span style="text-align: var(--mdb-body-text-align);">Somewhat better, work as usual.</span></p>
+				<p>●　Sat. 22.：<span style="text-align: var(--mdb-body-text-align);">Was up all day, wandering about and felt stronger — Went to Saⁿ-têng-po͘ .</span></p>
+			　<cite>Excerpted from《George Mackay Diary》</cite>
+              </blockquote>
 			
-			<!-- CC3.0 Picture -->
-			<center><img class="img-fluid" src="../../img/mackay-relative/Edinburgh.png" alt=""></center>
-			<center><p>▲ Edinburgh Seminary／Source：<a href="https://commons.wikimedia.org/wiki/File:New_College_on_the_Mound,_Edinburgh.jpg">《Wikimedia Commons - Kim Traynor》</a></p></center>
-			<!-- CC3.0 Picture -->
-		    
+			<!--摘要-->
+			<center><input2big-red>July 26, 1882 Oxford College opened</input2big-red></center>
+			<blockquote>
+              　<p>Opened Oxford College</p><p>At 8:30 P.M. A. Frater in the chair.</p><p>Hobson, Mr. Frater Laillaw Mrs. Laillaw, Cap. Abbott &amp; all from the “Fu Kien”. Lí-ko-kang and Hái-koan &amp; Dr. Johansen present. Began by singing Psalm 100. MacGreger played on the Harmonium. Everybody pleased. I asked the converts to sing hymn 7. A Hôa prayed — I spoke about the Oxford County and old friends and made remarks in Chinese and English then all went around to all the building —</p><p>1500 present.</p>
+			　<cite>Excerpted from《George Mackay Diary》</cite>
+              </blockquote>
+			<p>Note: (Found in the Mackay diary  documentation records in Canada. 27 July 1882,  the opening of Oxford College was already mentioned in the mail wrote to Professor McLauren. In comparison to the 5 August 1882 diary, there are obviously some problems, the Mackay diary documentation record did not include the 5 August 1882.)</p>
+			
+			<center><input2big-red>On January 19, 1884, Tamsui Girls' SchooI opened</input2big-red></center>
+			<blockquote>
+              <p>Opened girls school</p>
+			 <cite>Excerpted from《George Mackay Diary》</cite>
+              </blockquote>
+			<p>Note : Mackay only wrote this sentence, did not wrote other events happened that day.</p>
+			<input2big class="text"><br>
+            </input2big>
+            <input2big class="text"><br>
+            </input2big>
+			<p></p><h2>【Culture】</h2><p></p>
+			
+			<!--摘要-->
+			<center><input2big-red>July 1873 Visiting Indigenous tribe(1)</input2big-red></center>
+			<blockquote>
+              　<p>●　Sun. 13.</p><p><span style="text-align: var(--mdb-body-text-align);">E.C. Baber. &amp; Savages</span></p><p><span style="text-align: var(--mdb-body-text-align);">Went on board H.B.M.S. “Laezer.” All very attentive. Spoke on Amos 4:12. “Prepare to meet thy God.”</span></p>
+				<p>●　<span style="text-align: var(--mdb-body-text-align);">Mon. 14.</span><span style="text-align: var(--mdb-body-text-align);">：All day long studying and Teaching.</span></p>
+				<p>●　Tues.15.：Towards eve. with a few students and E.C. Baber B.M. Consul walked along the river and got to Gō͘-kó͘-khiⁿ late at night. I preached and we sang till late.</p>
+				<p>●　Wed. 16.：Walked rather quick and put up at Tiong-le̍k.</p>
+				<p>●　Thurs. 17.：Again on the march. I went barefooted at 5 P.M. arrived in Tek-chhàm.</p>
+				<p>●　Fri. 18.：Pressed on for Sin-káng arrived early. Baber tired, his boy gave up —</p>
+				<p>●　Sat. 19.－Meet aboriginal people：</p><p>At day break made a start for the mountains. Having waded through many streams — Wandered around many winding paths we came to the base of a wooded mountain. Baber took off his shoe. We drank cold water took cold rice and barefooted all scrambled along at dark got to Sai-thâm-tóe. Met savages —</p>
+				<p>●　Sun. 20.：</p><p>Sai-thâm-tóe.</p><p>In Sai-thâm-tóe. Several hundred savages about all day. With students and several Pîⁿ-po͘-hoan we sang. I preached fore. and afternoon. All seemed pleased — We were there in Savage Territory.</p>
+				<p>●　Mon. 21.：</p><p>Very early in the morning started with a party of 30 or 40 over mountains — Through dark, deep ravines until we heard dogs barking and savages shouting. All came out to meet us and as we entered one hut men and women were dancing and shouting. They were very kind. We passed though groves of bamboo of sky blue color.</p><p>Tatooing</p><p>The women tatooed by making a line from the opening of the ear to the nostril. Then another quarter of an inch apart. Between them crosses were made. Then two lines more — the lowest running from the ear to the chin. Crosses also between — These lines ran parallel. —</p><p>The men tatooed by making lines on the forehead an inch in length and beginning at the root of the nose and horizontal on the forehead. Many tatooed the breast by making similar lines also horizontal. These works of bravery were put on when one returned with a Chinaman’s head an additional mark was made. I saw a chief with 29 such marks of distinction —</p>
+			　<cite>Excerpted from《George Mackay Diary》</cite>
+              </blockquote>
+			
+			<center><input2big-red>Mackay describing the tattoos on Native indigenous people</input2big-red></center>
+			<p>The tattoos on females are poking a line between the ear hole and the nose hole, and poke another 1/4 inch down of it. On the intersection of these two lines, there are many intersecting patterns. And then poke two more lines, one is between the ear hole and the cheeks, another one is in the middle of these lines. These lines are all parallel to one another. Male’s tattoos are 1 inch long lines on their foreheads, starting from the bottom of their noses to their front foreheads. Many people will have similar tattoos on their chests, the same parallel lines on their foreheads. These tattoos represents bravery, and if one tribe member brings a Han Chinese head back, then they would add another tattoo line to he/she. I once saw a tribe leader had 29 special tattoo lines.</p>
+			
+			<!--摘要-->
+			<center><input2big-red>July 1873 Visiting Native Indigenous tribe(2)</input2big-red></center>
+			<blockquote>
+              　<p>●　Tues. 22.：<span style="text-align: var(--mdb-body-text-align);">Returned to Sin-káng by a different route — Passed through beautiful scenery —</span></p>
+				<p>●　Wed. 23.：Marched back under a terrible sun to Tek-chhàm. Went all round the city-wall and through the streets —</p>
+				<p>●　Thurs. 24.：<span style="text-align: var(--mdb-body-text-align);">Returned to Tiong-le̍k. Baber very tired. I preached in the streets.</span></p>
+				<p>●　Fri. 25.：<span style="text-align: var(--mdb-body-text-align);">Arrived at Gō͘-kó͘-khiⁿ in time to take a boat out to Tamsui and with Baber really exhausted we got back after dark —</span></p>
+			　<cite>Excerpted from《George Mackay Diary》</cite>
+              </blockquote>
 			<!--References-->
 			<br>
 			<hr size="8px" align="center" width="100%">
 			<center><img class="img-fluid" src="../../img/References.png" alt="" width="30%"></center>
-			<center><p>Referring URL：<a href="https://openmuseum.tw/">Open Museum</a>｜<a href="https://commons.wikimedia.org/wiki/Main_Page">Wikimedia Commons</a></p></center>
+			<center><p>Referring URL：<a href="https://www.books.com.tw/products/0010537603">Rev.George Leslie MacKay</a>｜<a href="https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%81%95#%E8%B2%A2%E7%8D%BB">Wikipedia</a></p></center>
 			<br>
 		    <!--References-->
-          </div>
+		    
+            </input2big></div>
 		</div>
 
 
@@ -237,20 +294,19 @@
 		</div>
 		  
       
-    </section>
+    </div></section>
 
 <!-- footer (┛`д´)┛-->
   <footer class="footer-area section-padding">
     <div class="container">
 		<center><footer_title>Best viewed in</footer_title></center>
-	  <center><hr Color="#A8A8A8" align="center" width="30%"></center>
+	  <center><hr color="#A8A8A8" align="center" width="30%"></center>
 		<center>
 		  <p>Win 7 or higher、MAC OS X。</p>
 		  <p>Browser：Edge、Chrome 55 or higher、Firefox 50.0 or higher、Safari 9.0 or higher.</p>
-		  <div id="button_zoomout"><a href="http://www.globalschoolnet.org/gsncf/"><img src="../../img/CFParticipantBanner2022.jpg" alt="" width="100%"></a></div>
 		</center>
         <center><img src="../img/index/social_media.png" alt="" width="20%"><p class="footer-text m-0">
-		Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved | TMSSOCIAL</p></center>
+		Copyright ©<script>document.write(new Date().getFullYear());</script>20222022 All rights reserved | TMSSOCIAL</p></center>
 		</div>
   </footer>
 
@@ -264,5 +320,6 @@
 	<script src="../../js/mail-script.js"></script>
 	<script src="../../js/main.js"></script>
 
-</body>
-</html>
+
+
+</body></html>
