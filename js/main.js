@@ -61,7 +61,7 @@ $(function() {
     fast_navFixed();
 	
 	
-  var fast_nav_offset_bottom = $(document).height() - 1200; 
+  var fast_nav_offset_bottom = $(document).height() - 1300; 
 	// 快速導航 置底
     function fast_navBottom(){
         if ( $('.fast_nav').length ){ 
@@ -98,7 +98,7 @@ $(function() {
     makcy_navFixed();
 	
 	
-  var makcy_nav_offset_bottom = $(document).height() - 1600; 
+  var makcy_nav_offset_bottom = $(document).height() - 1800; 
 	// 主題探究 置底
     function makcy_navBottom(){
         if ( $('.makcy_nav').length ){ 
