@@ -424,7 +424,7 @@ td {
 
 #bannerimage-narrtive-en {
   width: 100%;
-  background-image: url("../../en-US/img/narrtive-zh/banner.png");
+  background-image: url("../../img/narrtive-zh/banner.png");
   background-repeat:no-repeat;
   background-position: center center;
   background-size: cover;
@@ -468,7 +468,7 @@ td {
 
 #bannerimage-person-en {
   width: 100%;
-  background-image: url("../../en-US/img/narrtive-zh/banner-2.png");
+  background-image: url("../../img/narrtive-zh/banner-2.png");
   background-repeat:no-repeat;
   background-position: center center;
   background-size: cover;
@@ -556,7 +556,7 @@ td {
 
 #bannerimage-talk-en {
   width: 100%;
-  background-image: url("../../en-US/img/index/talk-banner.png");
+  background-image: url("../../img/index/talk-banner.png");
   background-repeat:no-repeat;
   background-position: center center;
   background-size: cover;
