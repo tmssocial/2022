@@ -69,6 +69,7 @@ $(function() {
                 var scroll = $(window).scrollTop();   
                 if (scroll >= fast_nav_offset_bottom ) {
                     $(".fast_nav").addClass("fast_nav-bottom");
+                    $(".fast_nav").removeClass("fast_nav-fixed");
                 } else {
                     $(".fast_nav").removeClass("fast_nav-bottom");
                 }
@@ -106,6 +107,7 @@ $(function() {
                 var scroll = $(window).scrollTop();   
                 if (scroll >= makcy_nav_offset_bottom ) {
                     $(".makcy_nav").addClass("fast_nav-bottom");
+                    $(".fast_nav").removeClass("fast_nav-fixed");
                 } else {
                     $(".makcy_nav").removeClass("fast_nav-bottom");
                 }

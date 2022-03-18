@@ -24,15 +24,19 @@
 	}
 
 	.fast_nav.fast_nav-bottom{
-		display:none;
+		position:absolute;
+		bottom: 0px;
+		left : 10px;
 	}
 }
 @media (max-width:1000px){
 	.fast_nav.fast_nav-fixed{
+	position:static;
 	width:100%;
 	}
 
 	.fast_nav.fast_nav-bottom{
+	position:static;
 	width:100%;
 	}
 }
@@ -59,6 +63,8 @@
 	}
 
 	.makcy_nav.fast_nav-bottom{
-	width:100%;
+		position:absolute;
+		bottom: 0px;
+		left : 10px;
 	}
 }
