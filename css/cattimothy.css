@@ -2,17 +2,7 @@
 	min-width: 300px;
 }
 
-/* .logo-en{ */
-	/* margin-right:100px; */
-/* } */
-
-/* .navbar-en{ */
-	/* margin-right:80px; */
-	/* border-collapse:0px 0px !important; */
-	/* width:100% */
-/* } */
-
-/* 快速導航 */
+/* Fast Navigation */
 .fast_nav{
 	position:static;
 	width:310px;
@@ -22,7 +12,6 @@
 		position:fixed;
 		top:20%;
 	}
-
 	.fast_nav.fast_nav-bottom{
 		position:absolute;
 		bottom: 0px;
@@ -42,7 +31,7 @@
 }
 
 
-/* 主題探究 */
+/* Thematic Inquiry */
 .makcy_nav{
 	position:static;
 	width:310px;

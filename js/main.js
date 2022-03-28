@@ -43,15 +43,16 @@ $(function() {
     navbarFixed();
 
 
-	//* 快速導航參數
+	//* Quick Navigation Parameters
   var fast_nav_offset_top = $('header').height() + 140; 
-	//* 快速導航 隨畫面移動
+	//* Quick Navigation Moves with the screen
     function fast_navFixed(){
         if ( $('.fast_nav').length ){ 
             $(window).scroll(function() {
                 var scroll = $(window).scrollTop();   
                 if (scroll >= fast_nav_offset_top ) {
                     $(".fast_nav").addClass("fast_nav-fixed");
+                    $(".fast_nav").removeClass("fast_nav-bottom");
                 } else {
                     $(".fast_nav").removeClass("fast_nav-fixed");
                 }
@@ -62,7 +63,7 @@ $(function() {
 	
 	
   var fast_nav_offset_bottom = $(document).height() - 1300; 
-	// 快速導航 置底
+	// Quick Navigation Bottom
     function fast_navBottom(){
         if ( $('.fast_nav').length ){ 
             $(window).scroll(function() {
@@ -80,16 +81,17 @@ $(function() {
 
 
 
-// 主題探究
-	//* 主題探究 參數
+// Thematic Inquiry
+	//* Thematic Inquiry Parameters
   var makcy_nav_offset_top = $('header').height() + 130; 
-	//* 主題探究 隨畫面移動
+	//* Thematic exploration moves with the screen
     function makcy_navFixed(){
         if ( $('.makcy_nav').length ){ 
             $(window).scroll(function() {
                 var scroll = $(window).scrollTop();   
                 if (scroll >= makcy_nav_offset_top ) {
                     $(".makcy_nav").addClass("fast_nav-fixed");
+                    $(".makcy_nav").removeClass("fast_nav-bottom");
                 } else {
                     $(".makcy_nav").removeClass("fast_nav-fixed");
                 }
@@ -100,14 +102,14 @@ $(function() {
 	
 	
   var makcy_nav_offset_bottom = $(document).height() - 1800; 
-	// 主題探究 置底
+	// Thematic Inquiry bottom
     function makcy_navBottom(){
         if ( $('.makcy_nav').length ){ 
             $(window).scroll(function() {
                 var scroll = $(window).scrollTop();   
                 if (scroll >= makcy_nav_offset_bottom ) {
                     $(".makcy_nav").addClass("fast_nav-bottom");
-                    $(".fast_nav").removeClass("fast_nav-fixed");
+                    $(".makcy_nav").removeClass("fast_nav-fixed");
                 } else {
                     $(".makcy_nav").removeClass("fast_nav-bottom");
                 }
