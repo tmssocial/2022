@@ -83,7 +83,7 @@ $(function() {
 
 // Thematic Inquiry
 	//* Thematic Inquiry Parameters
-  var makcy_nav_offset_top = $('header').height() + 140; 
+  var makcy_nav_offset_top = $('header').height() + 200;
 	//* Thematic exploration moves with the screen
     function makcy_navFixed(){
         if ( $('.makcy_nav').length ){ 
@@ -101,7 +101,7 @@ $(function() {
     makcy_navFixed();
 	
 	
-  var makcy_nav_offset_bottom = $(document).height() - 1500; 
+  var makcy_nav_offset_bottom = $(document).height() - 1600; 
 	// Thematic Inquiry bottom
     function makcy_navBottom(){
         if ( $('.makcy_nav').length ){ 

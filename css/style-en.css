@@ -150,7 +150,7 @@ a {
 	margin: 0px;
 	background: #fff
 }
-@media (min-width: 992px) {
+@media (min-width: 1400px) {
 	.header_area .navbar .nav .nav-item.submenu ul {
 		position: absolute;
 		top: 120%;
@@ -318,7 +318,7 @@ a {
 		line-height: 45px
 	}
 }
-@media (max-width: 1400px) {
+@media (max-width: 1399px) {
 	.navbar-toggler {
 		border: none;
 		border-radius: 0px;
